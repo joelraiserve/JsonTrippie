@@ -1,7 +1,5 @@
 {
   "tripie_applications": [
-  
-    
     {
       "personalInfo": {
         "firstName": "Jessica",
@@ -11,8 +9,14 @@
         "gender": "female"
       },
       "travelStyle": {
-        "travelMethods": ["solo", "friends"],
-        "budgetStyles": ["mid-range", "luxury"],
+        "travelMethods": [
+          "solo",
+          "friends"
+        ],
+        "budgetStyles": [
+          "mid-range",
+          "luxury"
+        ],
         "familySituation": "single"
       },
       "expertise": {
@@ -71,7 +75,7 @@
               "Main Street Station - budget vintage charm downtown"
             ],
             "restaurants": [
-              "Joël Robuchon - three Michelin star French at MGM",
+              "JoÃ«l Robuchon - three Michelin star French at MGM",
               "Lotus of Siam - authentic Thai off the beaten path",
               "Eataly - Italian marketplace at Park MGM",
               "Hash House A Go Go - twisted farm food large portions",
@@ -97,12 +101,16 @@
               "Zuma - contemporary Japanese with outdoor terrace",
               "La Camaronera Fish Market - fresh seafood market and restaurant",
               "Yardbird Southern Table & Bar - Southern comfort food",
-              "Café Bustelo - Cuban coffee experience"
+              "CafÃ© Bustelo - Cuban coffee experience"
             ],
             "otherExperiences": "Walk Ocean Drive for Art Deco architecture and people watching. Explore Wynwood Walls for street art and galleries. Take boat tour of celebrity homes and Biscayne Bay. Experience Little Havana culture and domino parks."
           }
         ],
-        "recommendationTypes": ["food", "nightlife", "activities"]
+        "recommendationTypes": [
+          "food",
+          "nightlife",
+          "activities"
+        ]
       },
       "preferences": {
         "availability": "few-times-week"
@@ -122,8 +130,14 @@
         "gender": "male"
       },
       "travelStyle": {
-        "travelMethods": ["solo", "couple"],
-        "budgetStyles": ["budget", "mid-range"],
+        "travelMethods": [
+          "solo",
+          "couple"
+        ],
+        "budgetStyles": [
+          "budget",
+          "mid-range"
+        ],
         "familySituation": "couple-no-kids"
       },
       "expertise": {
@@ -142,7 +156,7 @@
             "restaurants": [
               "Tim Ho Wan - Michelin-starred dim sum chain",
               "Lung King Heen - Cantonese fine dining at Four Seasons",
-              "Kam Wah Café - famous pineapple buns traditional cha chaan teng",
+              "Kam Wah CafÃ© - famous pineapple buns traditional cha chaan teng",
               "Maxim's Palace - classic dim sum in art deco setting",
               "Tai Cheong Bakery - egg tarts loved by last governor",
               "Australia Dairy Company - fast-paced scrambled eggs and toast"
@@ -189,7 +203,7 @@
               "Yang's Fry-Dumpling - pan-fried soup dumplings",
               "M on the Bund - Western fine dining with Bund views"
             ],
-            "otherExperiences": "Walk the Bund waterfront promenade for historic architecture. Visit Yu Garden for traditional Chinese garden design. Take maglev train from airport for world's fastest train experience. Explore French Concession for tree-lined streets and cafés."
+            "otherExperiences": "Walk the Bund waterfront promenade for historic architecture. Visit Yu Garden for traditional Chinese garden design. Take maglev train from airport for world's fastest train experience. Explore French Concession for tree-lined streets and cafÃ©s."
           },
           {
             "title": "Beijing Forbidden City and Peking duck",
@@ -198,7 +212,7 @@
             "hotels": [
               "Aman at Summer Palace - luxury near imperial gardens",
               "The Peninsula Beijing - luxury near Forbidden City",
-              "Hotel Éclat Beijing - modern luxury boutique",
+              "Hotel Ãclat Beijing - modern luxury boutique",
               "Leo Hostel - budget courtyard hostel near Forbidden City",
               "Grand Hyatt Beijing - luxury at Oriental Plaza"
             ],
@@ -213,7 +227,11 @@
             "otherExperiences": "Visit Forbidden City early morning with advance tickets. Walk Great Wall at Mutianyu section less crowded than Badaling. Explore hutong neighborhoods by rickshaw. Take cooking class learning dumpling making."
           }
         ],
-        "recommendationTypes": ["food", "activities", "hidden-gems"]
+        "recommendationTypes": [
+          "food",
+          "activities",
+          "hidden-gems"
+        ]
       },
       "preferences": {
         "availability": "few-times-week"
@@ -233,8 +251,14 @@
         "gender": "female"
       },
       "travelStyle": {
-        "travelMethods": ["family", "couple"],
-        "budgetStyles": ["mid-range", "luxury"],
+        "travelMethods": [
+          "family",
+          "couple"
+        ],
+        "budgetStyles": [
+          "mid-range",
+          "luxury"
+        ],
         "familySituation": "couple-with-kids"
       },
       "expertise": {
@@ -246,19 +270,19 @@
             "hotels": [
               "Hotel Ritz Madrid - legendary luxury reopened after renovation",
               "Only YOU Boutique Hotel - design hotel near Retiro Park",
-              "Dear Hotel Madrid - rooftop terrace overlooking Gran Vía",
+              "Dear Hotel Madrid - rooftop terrace overlooking Gran VÃ­a",
               "The Hat Madrid - trendy hostel with rooftop bar",
               "Villa Magna - luxury shopping and business district"
             ],
             "restaurants": [
               "DiverXO - three Michelin star avant-garde cuisine",
-              "Casa Botín - world's oldest restaurant famous for cochinillo",
+              "Casa BotÃ­n - world's oldest restaurant famous for cochinillo",
               "Mercado de San Miguel - gourmet market hall",
               "Taberna Real - traditional tapas in literary quarter",
               "StreetXO - casual Asian fusion by DiverXO chef",
-              "Chocolatería San Ginés - churros and chocolate since 1894"
+              "ChocolaterÃ­a San GinÃ©s - churros and chocolate since 1894"
             ],
-            "otherExperiences": "Visit Golden Triangle of Art - Prado, Reina Sofía, and Thyssen museums. Experience evening paseo in Retiro Park. Take family-friendly flamenco show. Explore El Rastro flea market on Sundays."
+            "otherExperiences": "Visit Golden Triangle of Art - Prado, Reina SofÃ­a, and Thyssen museums. Experience evening paseo in Retiro Park. Take family-friendly flamenco show. Explore El Rastro flea market on Sundays."
           },
           {
             "title": "Seville flamenco and Andalusian architecture",
@@ -279,7 +303,7 @@
               "La Azotea - contemporary tapas multiple locations",
               "El Rinconcillo - oldest tapas bar in Seville since 1670"
             ],
-            "otherExperiences": "Visit Alcázar palace and gardens with advance tickets. Experience authentic flamenco in intimate tablao venues. Take cooking class learning paella and gazpacho. Explore Triana neighborhood for pottery and flamenco culture."
+            "otherExperiences": "Visit AlcÃ¡zar palace and gardens with advance tickets. Experience authentic flamenco in intimate tablao venues. Take cooking class learning paella and gazpacho. Explore Triana neighborhood for pottery and flamenco culture."
           },
           {
             "title": "Granada Alhambra and Moorish heritage",
@@ -288,19 +312,19 @@
             "hotels": [
               "Parador de Granada - luxury inside Alhambra grounds",
               "Hotel Alhambra Palace - Moorish-style with Alhambra views",
-              "Casa Morisca Hotel - boutique in historic Albaicín",
+              "Casa Morisca Hotel - boutique in historic AlbaicÃ­n",
               "Oasis Backpackers Granada - budget near cathedral",
               "AC Hotel Granada - modern business hotel"
             ],
             "restaurants": [
               "Damasqueros - contemporary Andalusian cuisine",
               "Bar Los Diamantes - famous for fried fish and free tapas",
-              "Restaurante Chikito - where García Lorca and friends gathered",
+              "Restaurante Chikito - where GarcÃ­a Lorca and friends gathered",
               "Oliver - modern tapas in Realejo neighborhood",
-              "Café 4 Gatos - bohemian atmosphere near university",
-              "Heladería Los Italianos - artisan ice cream family business"
+              "CafÃ© 4 Gatos - bohemian atmosphere near university",
+              "HeladerÃ­a Los Italianos - artisan ice cream family business"
             ],
-            "otherExperiences": "Book Alhambra tickets months in advance - essential reservation. Explore Albaicín neighborhood for Moorish architecture and views. Experience free tapas culture unique to Granada. Take flamenco lessons in caves of Sacromonte."
+            "otherExperiences": "Book Alhambra tickets months in advance - essential reservation. Explore AlbaicÃ­n neighborhood for Moorish architecture and views. Experience free tapas culture unique to Granada. Take flamenco lessons in caves of Sacromonte."
           },
           {
             "title": "Valencia paella and modern architecture",
@@ -318,13 +342,17 @@
               "Casa Roberto - traditional paella loved by locals",
               "Ricard Camarena Restaurant - Michelin-starred modern cuisine",
               "Central Market - art nouveau market with food stalls",
-              "Horchatería Santa Catalina - traditional horchata and farton",
-              "Café de las Horas - ornate décor and cocktails"
+              "HorchaterÃ­a Santa Catalina - traditional horchata and farton",
+              "CafÃ© de las Horas - ornate dÃ©cor and cocktails"
             ],
             "otherExperiences": "Visit City of Arts and Sciences for futuristic architecture. Learn to make authentic paella in cooking class. Explore Central Market for fresh ingredients and atmosphere. Take bike tour through Turia Gardens former riverbed."
           }
         ],
-        "recommendationTypes": ["food", "activities", "family"]
+        "recommendationTypes": [
+          "food",
+          "activities",
+          "family"
+        ]
       },
       "preferences": {
         "availability": "daily"
@@ -344,8 +372,14 @@
         "gender": "male"
       },
       "travelStyle": {
-        "travelMethods": ["friends", "couple"],
-        "budgetStyles": ["mid-range", "adventure"],
+        "travelMethods": [
+          "friends",
+          "couple"
+        ],
+        "budgetStyles": [
+          "mid-range",
+          "adventure"
+        ],
         "familySituation": "single"
       },
       "expertise": {
@@ -366,7 +400,7 @@
               "The Brazen Head - Ireland's oldest pub dating to 1198",
               "Fallon & Byrne - gourmet food hall and wine cellar",
               "McDaid's - literary pub where Brendan Behan drank",
-              "The Winding Stair - bookshop café overlooking River Liffey",
+              "The Winding Stair - bookshop cafÃ© overlooking River Liffey",
               "Leo Burdock - famous fish and chips since 1913"
             ],
             "otherExperiences": "Take literary pub crawl following James Joyce and other writers. Visit Trinity College to see Book of Kells. Explore Temple Bar district but venture beyond for authentic pubs. Take day trip to Glendalough for ancient monastic ruins."
@@ -386,7 +420,7 @@
               "Aniar - Michelin-starred wild Irish cuisine",
               "McDonagh's - famous fish and chips by Spanish Arch",
               "Tigh Neachtain - traditional pub with authentic atmosphere",
-              "Kai - farm-to-table restaurant and café",
+              "Kai - farm-to-table restaurant and cafÃ©",
               "The Quay Street Kitchen - casual dining in Latin Quarter",
               "Murphy's Ice Cream - artisan ice cream from Dingle"
             ],
@@ -409,7 +443,7 @@
               "St. George's Market - weekend market with local food",
               "Mourne Seafood Bar - fresh seafood from local waters",
               "Holohans at the Barge - traditional Irish music and food",
-              "Sawers Deli - gourmet food shop and café"
+              "Sawers Deli - gourmet food shop and cafÃ©"
             ],
             "otherExperiences": "Take political mural tour to understand the Troubles history. Visit Titanic Belfast museum at shipyard where Titanic was built. Explore Peace Walls and learn about ongoing reconciliation. Take black taxi tour for local perspective."
           },
@@ -427,7 +461,7 @@
             "restaurants": [
               "Ichigo Ichie - Michelin-starred Japanese kaiseki",
               "English Market - historic covered market with food stalls",
-              "Farmgate Café - farm-to-table above English Market",
+              "Farmgate CafÃ© - farm-to-table above English Market",
               "Jacques Restaurant - intimate fine dining",
               "The Fish Wife - fresh seafood in seaside village",
               "Beamish & Crawford - historic brewery experience"
@@ -435,7 +469,11 @@
             "otherExperiences": "Explore English Market for artisan foods and local specialties. Take Ring of Kerry scenic drive for spectacular coastal views. Visit Blarney Castle to kiss the Blarney Stone. Take whiskey tour at Jameson Distillery Midleton."
           }
         ],
-        "recommendationTypes": ["food", "nightlife", "activities"]
+        "recommendationTypes": [
+          "food",
+          "nightlife",
+          "activities"
+        ]
       },
       "preferences": {
         "availability": "few-times-week"
@@ -455,8 +493,14 @@
         "gender": "female"
       },
       "travelStyle": {
-        "travelMethods": ["couple", "family"],
-        "budgetStyles": ["mid-range", "luxury"],
+        "travelMethods": [
+          "couple",
+          "family"
+        ],
+        "budgetStyles": [
+          "mid-range",
+          "luxury"
+        ],
         "familySituation": "couple-no-kids"
       },
       "expertise": {
@@ -497,8 +541,8 @@
               "Hakkasan - Michelin-starred Cantonese cuisine",
               "Mezlai - fine dining Emirati cuisine at Emirates Palace",
               "Li Beirut - Lebanese cuisine with live entertainment",
-              "Al Fanar Restaurant & Café - traditional Emirati atmosphere",
-              "Jones the Grocer - Australian-style café and deli",
+              "Al Fanar Restaurant & CafÃ© - traditional Emirati atmosphere",
+              "Jones the Grocer - Australian-style cafÃ© and deli",
               "Catch - seafood with beachfront setting"
             ],
             "otherExperiences": "Visit Louvre Abu Dhabi for world-class art collections. Experience Formula 1 at Yas Marina Circuit. Explore Sheikh Zayed Grand Mosque architectural masterpiece. Take falcon hospital tour unique cultural experience."
@@ -519,7 +563,7 @@
               "Hamdi Restaurant - famous for lamb and Bosphorus views",
               "Ciya Sofrasi - authentic Anatolian regional cuisines",
               "Karakoy Lokantasi - modern Turkish in Art Deco setting",
-              "Dürümzade - best döner kebab in Beyoğlu",
+              "DÃ¼rÃ¼mzade - best dÃ¶ner kebab in BeyoÄlu",
               "Hafiz Mustafa - traditional Turkish sweets since 1864"
             ],
             "otherExperiences": "Visit Hagia Sophia and Blue Mosque early morning. Navigate Grand Bazaar for carpets and ceramics with negotiation skills. Take Bosphorus ferry cruise between Europe and Asia. Experience Turkish bath (hammam) at historic Cagaloglu Hamami."
@@ -541,12 +585,16 @@
               "Le Jardin - modern Moroccan in garden setting",
               "Nomad - rooftop restaurant overlooking spice markets",
               "Dar Yacout - romantic fine dining in palace setting",
-              "Pâtisserie Hilton - French pastries and mint tea"
+              "PÃ¢tisserie Hilton - French pastries and mint tea"
             ],
             "otherExperiences": "Navigate medina souks with local guide for carpets and crafts. Experience Jemaa el-Fnaa square transformation from day to night. Take cooking class in traditional riad kitchen. Day trip to Atlas Mountains for Berber villages."
           }
         ],
-        "recommendationTypes": ["hotels", "food", "activities"]
+        "recommendationTypes": [
+          "hotels",
+          "food",
+          "activities"
+        ]
       },
       "preferences": {
         "availability": "few-times-week"
@@ -566,8 +614,14 @@
         "gender": "male"
       },
       "travelStyle": {
-        "travelMethods": ["family", "couple"],
-        "budgetStyles": ["mid-range", "luxury"],
+        "travelMethods": [
+          "family",
+          "couple"
+        ],
+        "budgetStyles": [
+          "mid-range",
+          "luxury"
+        ],
         "familySituation": "couple-with-kids"
       },
       "expertise": {
@@ -606,11 +660,11 @@
             ],
             "restaurants": [
               "Kampa Park - fine dining with Charles Bridge views",
-              "U Fleků - historic brewery restaurant since 1499",
-              "Lokál - modern take on traditional Czech cuisine",
-              "Café Savoy - elegant Belle Époque coffeehouse",
-              "V Zátiší - fine dining Czech and international",
-              "Trdelník street vendors - sweet pastry tourist treat"
+              "U FlekÅ¯ - historic brewery restaurant since 1499",
+              "LokÃ¡l - modern take on traditional Czech cuisine",
+              "CafÃ© Savoy - elegant Belle Ãpoque coffeehouse",
+              "V ZÃ¡tiÅ¡Ã­ - fine dining Czech and international",
+              "TrdelnÃ­k street vendors - sweet pastry tourist treat"
             ],
             "otherExperiences": "Walk Charles Bridge early morning before crowds for photos. Take Prague Castle tour including St. Vitus Cathedral. Experience traditional beer hall culture and Czech beer varieties. Attend classical concert in historic venue."
           },
@@ -627,13 +681,13 @@
             ],
             "restaurants": [
               "Steirereck - two Michelin star modern Austrian",
-              "Café Central - historic coffeehouse where intellectuals gathered",
-              "Figlmüller - famous for enormous Wiener schnitzel",
+              "CafÃ© Central - historic coffeehouse where intellectuals gathered",
+              "FiglmÃ¼ller - famous for enormous Wiener schnitzel",
               "Demel - imperial confectioner since 1786",
               "Plachutta - traditional Austrian cuisine multiple locations",
               "Zum Schwarzen Kameel - gourmet delicatessen and restaurant"
             ],
-            "otherExperiences": "Attend opera or concert at Vienna State Opera with dress code. Experience traditional Viennese coffeehouse culture with newspapers. Visit Schönbrunn Palace and gardens former imperial residence. Take waltz lesson at traditional dance school."
+            "otherExperiences": "Attend opera or concert at Vienna State Opera with dress code. Experience traditional Viennese coffeehouse culture with newspapers. Visit SchÃ¶nbrunn Palace and gardens former imperial residence. Take waltz lesson at traditional dance school."
           },
           {
             "title": "Salzburg Mozart heritage and Alpine scenery",
@@ -644,20 +698,24 @@
               "Hotel Sacher Salzburg - luxury on Salzach River",
               "Arte Vida - boutique design hotel",
               "YOHO Salzburg - modern hostel near train station",
-              "Schloss Mönchstein - castle hotel with city views"
+              "Schloss MÃ¶nchstein - castle hotel with city views"
             ],
             "restaurants": [
               "Restaurant Esszimmer - Michelin star fine dining",
-              "Augustiner-Bräu Kloster Mülln - historic monastery brewery",
-              "Café Tomaselli - oldest coffeehouse in Austria",
+              "Augustiner-BrÃ¤u Kloster MÃ¼lln - historic monastery brewery",
+              "CafÃ© Tomaselli - oldest coffeehouse in Austria",
               "Stiftskeller St. Peter - restaurant in monastery since 803",
               "Balkan Grill - local favorite for Balkan cuisine",
-              "Fürst - original Mozartkugel chocolate shop"
+              "FÃ¼rst - original Mozartkugel chocolate shop"
             ],
             "otherExperiences": "Take Sound of Music tour to filming locations. Visit Mozart's birthplace and residence museums. Take cable car up to Hohensalzburg Fortress for views. Day trip to Hallstatt lakeside village."
           }
         ],
-        "recommendationTypes": ["activities", "food", "family"]
+        "recommendationTypes": [
+          "activities",
+          "food",
+          "family"
+        ]
       },
       "preferences": {
         "availability": "daily"
@@ -677,14 +735,20 @@
         "gender": "female"
       },
       "travelStyle": {
-        "travelMethods": ["solo", "friends"],
-        "budgetStyles": ["budget", "mid-range"],
+        "travelMethods": [
+          "solo",
+          "friends"
+        ],
+        "budgetStyles": [
+          "budget",
+          "mid-range"
+        ],
         "familySituation": "single"
       },
       "expertise": {
         "areas": [
           {
-            "title": "Lisbon fado music and pastéis de nata",
+            "title": "Lisbon fado music and pastÃ©is de nata",
             "visits": "local",
             "isLocal": true,
             "hotels": [
@@ -696,13 +760,13 @@
             ],
             "restaurants": [
               "Ramiro - legendary seafood and beer hall",
-              "Pastéis de Belém - original pastéis de nata since 1837",
+              "PastÃ©is de BelÃ©m - original pastÃ©is de nata since 1837",
               "Tasca do Chico - authentic fado and wine in Bairro Alto",
               "A Tabacaria - traditional Portuguese in Chiado",
-              "Mini Bar Teatro - innovative small plates by José Avillez",
-              "Café A Brasileira - historic coffee house in Chiado"
+              "Mini Bar Teatro - innovative small plates by JosÃ© Avillez",
+              "CafÃ© A Brasileira - historic coffee house in Chiado"
             ],
-            "otherExperiences": "Experience authentic fado performance in Alfama neighborhood. Take Tram 28 historic route through old neighborhoods. Visit Jerónimos Monastery and Belém Tower UNESCO sites. Explore LX Factory creative district for art and food."
+            "otherExperiences": "Experience authentic fado performance in Alfama neighborhood. Take Tram 28 historic route through old neighborhoods. Visit JerÃ³nimos Monastery and BelÃ©m Tower UNESCO sites. Explore LX Factory creative district for art and food."
           },
           {
             "title": "Porto port wine and azulejo tiles",
@@ -717,13 +781,13 @@
             ],
             "restaurants": [
               "The Yeatman Restaurant - Michelin star with wine focus",
-              "Café Majestic - Belle Époque coffeehouse since 1921",
+              "CafÃ© Majestic - Belle Ãpoque coffeehouse since 1921",
               "Taberna Real do Fado - traditional food with fado music",
               "Cantinho do Avillez - casual dining by celebrity chef",
-              "Livraria Lello - bookstore café in stunning library",
-              "Francesinha Café - famous for francesinha sandwich"
+              "Livraria Lello - bookstore cafÃ© in stunning library",
+              "Francesinha CafÃ© - famous for francesinha sandwich"
             ],
-            "otherExperiences": "Take port wine cellars tour in Vila Nova de Gaia. Admire azulejo tile art at São Bento Station. Climb Clérigos Tower for panoramic city views. Day trip to Douro Valley for wine country and river cruise."
+            "otherExperiences": "Take port wine cellars tour in Vila Nova de Gaia. Admire azulejo tile art at SÃ£o Bento Station. Climb ClÃ©rigos Tower for panoramic city views. Day trip to Douro Valley for wine country and river cruise."
           },
           {
             "title": "Madeira levada walks and subtropical gardens",
@@ -739,8 +803,8 @@
             "restaurants": [
               "Il Gallo d'Oro - Michelin star fine dining",
               "Taberna Madeira - traditional Madeiran cuisine",
-              "Arsénio's - local favorite for espetada skewers",
-              "Café do Teatro - historic café in old town",
+              "ArsÃ©nio's - local favorite for espetada skewers",
+              "CafÃ© do Teatro - historic cafÃ© in old town",
               "Viola Restaurant - modern Portuguese cuisine",
               "Poncha Bar - traditional poncha cocktail experience"
             ],
@@ -759,16 +823,20 @@
             ],
             "restaurants": [
               "A Tasca - traditional Azorean cuisine",
-              "Taberna Açor - local seafood and meat specialties",
+              "Taberna AÃ§or - local seafood and meat specialties",
               "Canto da Doca - waterfront dining in marina",
               "Tony's Restaurant - local institution for traditional food",
               "Alcides - historic restaurant serving regional specialties",
-              "Café Central - local gathering place for coffee and pastries"
+              "CafÃ© Central - local gathering place for coffee and pastries"
             ],
             "otherExperiences": "Bathe in natural hot springs at Furnas village. See Sete Cidades twin crater lakes from viewpoint. Go whale watching for sperm whales and dolphins. Visit tea plantation only in Europe at Gorreana."
           }
         ],
-        "recommendationTypes": ["food", "activities", "hidden-gems"]
+        "recommendationTypes": [
+          "food",
+          "activities",
+          "hidden-gems"
+        ]
       },
       "preferences": {
         "availability": "few-times-week"
@@ -788,8 +856,14 @@
         "gender": "male"
       },
       "travelStyle": {
-        "travelMethods": ["solo", "couple"],
-        "budgetStyles": ["mid-range", "adventure"],
+        "travelMethods": [
+          "solo",
+          "couple"
+        ],
+        "budgetStyles": [
+          "mid-range",
+          "adventure"
+        ],
         "familySituation": "couple-no-kids"
       },
       "expertise": {
@@ -799,18 +873,18 @@
             "visits": "local",
             "isLocal": true,
             "hotels": [
-              "Grand Hôtel Stockholm - luxury facing Royal Palace",
+              "Grand HÃ´tel Stockholm - luxury facing Royal Palace",
               "Hotel Skeppsholmen - design hotel on island",
               "At Six - boutique design in cultural district",
               "Generator Stockholm - trendy hostel in city center",
               "Nobis Hotel - luxury design in Norrmalmstorg"
             ],
             "restaurants": [
-              "Frantzén - three Michelin star innovative cuisine",
+              "FrantzÃ©n - three Michelin star innovative cuisine",
               "Meatballs for the People - modern take on Swedish classic",
               "Oaxen Krog - Michelin star Nordic cuisine on island",
               "Hermans Vegetarian Restaurant - buffet with water views",
-              "Café String - traditional Swedish fika experience",
+              "CafÃ© String - traditional Swedish fika experience",
               "Vete-Katten - historic pastry shop since 1928"
             ],
             "otherExperiences": "Take boat tour of Stockholm archipelago with 30,000 islands. Experience Swedish fika coffee culture with cinnamon buns. Visit ABBA Museum and Vasa Museum for maritime history. Explore Gamla Stan cobblestone old town."
@@ -820,7 +894,7 @@
             "visits": "10+",
             "isLocal": false,
             "hotels": [
-              "Hotel Rangá - luxury with Northern Lights wake-up service",
+              "Hotel RangÃ¡ - luxury with Northern Lights wake-up service",
               "ION Adventure Hotel - design hotel near geysir",
               "Hotel Borg - luxury in Reykjavik center",
               "Kex Hostel - trendy hostel in former biscuit factory",
@@ -828,10 +902,10 @@
             ],
             "restaurants": [
               "Dill - Michelin star New Nordic cuisine",
-              "Bæjarins Beztu Pylsur - famous hot dog stand",
+              "BÃ¦jarins Beztu Pylsur - famous hot dog stand",
               "Fish Market - modern Icelandic seafood",
-              "Café Loki - traditional Icelandic fermented shark",
-              "Grái Kötturinn - cozy café for soup and bread",
+              "CafÃ© Loki - traditional Icelandic fermented shark",
+              "GrÃ¡i KÃ¶tturinn - cozy cafÃ© for soup and bread",
               "Kopar - waterfront restaurant with harbor views"
             ],
             "otherExperiences": "Chase Northern Lights September-March with guided tours. Relax in Blue Lagoon geothermal spa with silica mud masks. Drive Golden Circle route to geysirs and waterfalls. Explore ice caves and glacier hiking with guides."
@@ -841,7 +915,7 @@
             "visits": "6-10",
             "isLocal": false,
             "hotels": [
-              "Hotel Union Øye - historic luxury in Geirangerfjord",
+              "Hotel Union Ãye - historic luxury in Geirangerfjord",
               "The Thief - luxury design hotel in Oslo",
               "Hotel Ullensvang - fjord-view luxury in Hardanger",
               "Bergen Hostel Montana - budget option with city views",
@@ -851,11 +925,11 @@
               "Maaemo - three Michelin star Norwegian ingredients",
               "Fish Market - seafood hall in Bergen",
               "Lysverket - contemporary restaurant in art museum",
-              "Døgnvill Burger - gourmet burger chain",
-              "Fløien Folkerestaurant - traditional food with views",
-              "Café Opera - historic café in Oslo"
+              "DÃ¸gnvill Burger - gourmet burger chain",
+              "FlÃ¸ien Folkerestaurant - traditional food with views",
+              "CafÃ© Opera - historic cafÃ© in Oslo"
             ],
-            "otherExperiences": "Take scenic train journey on Flåm Railway through fjords. Experience midnight sun in summer above Arctic Circle. Go Northern Lights hunting in Tromsø winter months. Hike to Preikestolen (Pulpit Rock) for fjord views."
+            "otherExperiences": "Take scenic train journey on FlÃ¥m Railway through fjords. Experience midnight sun in summer above Arctic Circle. Go Northern Lights hunting in TromsÃ¸ winter months. Hike to Preikestolen (Pulpit Rock) for fjord views."
           },
           {
             "title": "Copenhagen hygge culture and New Nordic cuisine",
@@ -864,22 +938,26 @@
             "hotels": [
               "Hotel d'Angleterre - grand luxury on Kongens Nytorv",
               "Nimb Hotel - boutique in Tivoli Gardens",
-              "Generator Copenhagen - trendy hostel in Østerbro",
+              "Generator Copenhagen - trendy hostel in Ãsterbro",
               "Copenhagen Admiral Hotel - harbourfront luxury",
               "Hotel Sanders - boutique luxury near Royal Theatre"
             ],
             "restaurants": [
               "Noma - world-famous New Nordic cuisine",
               "Torvehallerne - food market with local vendors",
-              "Schønnemann - traditional smørrebrød since 1877",
+              "SchÃ¸nnemann - traditional smÃ¸rrebrÃ¸d since 1877",
               "Restaurant Barr - New Nordic by Noma team",
               "La Glace - historic pastry shop since 1870",
               "Coffee Collective - third-wave coffee roaster"
             ],
-            "otherExperiences": "Rent bike to explore city like locals on extensive bike lanes. Experience hygge culture in cozy cafés and candlelit restaurants. Visit colorful Nyhavn harbor for photos and dining. Tour Carlsberg Brewery for beer history."
+            "otherExperiences": "Rent bike to explore city like locals on extensive bike lanes. Experience hygge culture in cozy cafÃ©s and candlelit restaurants. Visit colorful Nyhavn harbor for photos and dining. Tour Carlsberg Brewery for beer history."
           }
         ],
-        "recommendationTypes": ["activities", "adventure", "food"]
+        "recommendationTypes": [
+          "activities",
+          "adventure",
+          "food"
+        ]
       },
       "preferences": {
         "availability": "few-times-week"
@@ -899,8 +977,14 @@
         "gender": "female"
       },
       "travelStyle": {
-        "travelMethods": ["couple", "friends"],
-        "budgetStyles": ["mid-range", "luxury"],
+        "travelMethods": [
+          "couple",
+          "friends"
+        ],
+        "budgetStyles": [
+          "mid-range",
+          "luxury"
+        ],
         "familySituation": "couple-no-kids"
       },
       "expertise": {
@@ -941,9 +1025,9 @@
               "Machneyuda - lively market restaurant",
               "Eucalyptus - fine dining with biblical ingredients",
               "Hummus Ben Sira - authentic hummus experience",
-              "Tmol Shilshom - bookstore café in courtyard",
+              "Tmol Shilshom - bookstore cafÃ© in courtyard",
               "Azura - traditional Middle Eastern family restaurant",
-              "Café Kadosh - historic café and bakery"
+              "CafÃ© Kadosh - historic cafÃ© and bakery"
             ],
             "otherExperiences": "Visit Western Wall and Temple Mount early morning for fewer crowds. Walk Via Dolorosa and Church of Holy Sepulchre for Christian sites. Explore Mahane Yehuda Market for food and nightlife. Take guided tour of Yad Vashem Holocaust Memorial."
           },
@@ -953,7 +1037,7 @@
             "isLocal": false,
             "hotels": [
               "Feynan Ecolodge - sustainable desert lodge",
-              "Mövenpick Resort Petra - luxury near archaeological site",
+              "MÃ¶venpick Resort Petra - luxury near archaeological site",
               "Fadi Camp - Bedouin desert camp in Wadi Rum",
               "The Old Village Hotel - boutique in Petra village",
               "Kempinski Hotel Ishtar Dead Sea - luxury resort"
@@ -963,7 +1047,7 @@
               "Red Cave Restaurant - dining in rock-carved cave",
               "Al-Wadi Restaurant - traditional Jordanian cuisine",
               "Bedouin camp dinners - traditional zarb underground cooking",
-              "Rainbow Street cafés - trendy dining in Amman",
+              "Rainbow Street cafÃ©s - trendy dining in Amman",
               "Hashem Restaurant - famous for falafel and hummus"
             ],
             "otherExperiences": "Explore Petra archaeological site early morning for Treasury photos without crowds. Experience Bedouin culture with overnight camping in Wadi Rum desert. Float in Dead Sea and cover yourself in therapeutic mud. Take cooking class learning traditional Jordanian dishes."
@@ -990,7 +1074,11 @@
             "otherExperiences": "Explore Paphos Archaeological Park with Roman mosaics. Visit divided capital Nicosia and cross into Turkish North Cyprus. Relax on Nissi Beach famous for crystal-clear water. Wine tasting in Troodos Mountains villages."
           }
         ],
-        "recommendationTypes": ["food", "activities", "hidden-gems"]
+        "recommendationTypes": [
+          "food",
+          "activities",
+          "hidden-gems"
+        ]
       },
       "preferences": {
         "availability": "few-times-week"
@@ -1010,8 +1098,14 @@
         "gender": "male"
       },
       "travelStyle": {
-        "travelMethods": ["couple", "family"],
-        "budgetStyles": ["mid-range", "luxury"],
+        "travelMethods": [
+          "couple",
+          "family"
+        ],
+        "budgetStyles": [
+          "mid-range",
+          "luxury"
+        ],
         "familySituation": "empty-nesters"
       },
       "expertise": {
@@ -1092,7 +1186,7 @@
             ],
             "restaurants": [
               "Abou Tarek - famous koshary in Cairo",
-              "Naguib Mahfouz Café - literary café in Khan el-Khalili",
+              "Naguib Mahfouz CafÃ© - literary cafÃ© in Khan el-Khalili",
               "Cruise ship dining - international and Egyptian cuisine",
               "Street food - ful medames and ta'ameya",
               "Sofitel Old Cataract Terrace - Agatha Christie wrote here",
@@ -1101,7 +1195,11 @@
             "otherExperiences": "Visit Pyramids of Giza early morning before crowds and heat. Take Nile cruise between Luxor and Aswan stopping at temples. Explore Valley of the Kings tombs including Tutankhamun. Navigate Khan el-Khalili bazaar in Cairo for souvenirs."
           }
         ],
-        "recommendationTypes": ["activities", "adventure", "hotels"]
+        "recommendationTypes": [
+          "activities",
+          "adventure",
+          "hotels"
+        ]
       },
       "preferences": {
         "availability": "occasional"
@@ -1121,8 +1219,14 @@
         "gender": "female"
       },
       "travelStyle": {
-        "travelMethods": ["solo", "friends"],
-        "budgetStyles": ["budget", "mid-range"],
+        "travelMethods": [
+          "solo",
+          "friends"
+        ],
+        "budgetStyles": [
+          "budget",
+          "mid-range"
+        ],
         "familySituation": "single"
       },
       "expertise": {
@@ -1164,10 +1268,10 @@
               "Cha Ca La Vong - famous turmeric fish dish",
               "Weekend Night Market - street food and shopping",
               "Green Tangerine - French-Vietnamese fusion",
-              "Madame Hiên - elevated Vietnamese cuisine",
+              "Madame HiÃªn - elevated Vietnamese cuisine",
               "Giang Cafe - original egg coffee inventor"
             ],
-            "otherExperiences": "Navigate chaotic motorbike traffic in Old Quarter on foot. Take overnight junk boat cruise in Halong Bay UNESCO site. Watch water puppet theater traditional Vietnamese art form. Explore French Quarter for colonial architecture and cafés."
+            "otherExperiences": "Navigate chaotic motorbike traffic in Old Quarter on foot. Take overnight junk boat cruise in Halong Bay UNESCO site. Watch water puppet theater traditional Vietnamese art form. Explore French Quarter for colonial architecture and cafÃ©s."
           },
           {
             "title": "Siem Reap Angkor temples and Khmer culture",
@@ -1188,7 +1292,7 @@
               "Embassy Restaurant - fine dining with cultural show",
               "Local markets - fresh tropical fruits and snacks"
             ],
-            "otherExperiences": "Watch sunrise at Angkor Wat with advance planning for best spots. Explore lesser-known temples like Ta Prohm with tree roots. Take cooking class learning traditional Khmer dishes and ingredients. Visit floating villages on Tonlé Sap Lake."
+            "otherExperiences": "Watch sunrise at Angkor Wat with advance planning for best spots. Explore lesser-known temples like Ta Prohm with tree roots. Take cooking class learning traditional Khmer dishes and ingredients. Visit floating villages on TonlÃ© Sap Lake."
           },
           {
             "title": "Luang Prabang Buddhist temples and Mekong River",
@@ -1199,20 +1303,24 @@
               "Sofitel Luang Prabang - luxury resort",
               "Villa Chitdara - boutique guesthouse",
               "Backpacker hostels - budget options near center",
-              "La Résidence Phou Vao - luxury with mountain views"
+              "La RÃ©sidence Phou Vao - luxury with mountain views"
             ],
             "restaurants": [
               "Tamarind Restaurant - Lao cuisine cooking classes",
               "Night Market - street food stalls along river",
               "Coconut Garden - garden restaurant with river views",
               "Traditional Lao cuisine - laap and sticky rice",
-              "Riverside cafés - French colonial influence",
+              "Riverside cafÃ©s - French colonial influence",
               "Local markets - fresh herbs and vegetables"
             ],
             "otherExperiences": "Wake early to participate in alms giving ceremony to Buddhist monks. Take slow boat down Mekong River to Thailand border. Visit Kuang Si Waterfalls for swimming and hiking. Explore night market for textiles and handicrafts."
           }
         ],
-        "recommendationTypes": ["food", "activities", "hidden-gems"]
+        "recommendationTypes": [
+          "food",
+          "activities",
+          "hidden-gems"
+        ]
       },
       "preferences": {
         "availability": "few-times-week"
@@ -1232,8 +1340,14 @@
         "gender": "male"
       },
       "travelStyle": {
-        "travelMethods": ["family", "couple"],
-        "budgetStyles": ["mid-range", "luxury"],
+        "travelMethods": [
+          "family",
+          "couple"
+        ],
+        "budgetStyles": [
+          "mid-range",
+          "luxury"
+        ],
         "familySituation": "couple-with-kids"
       },
       "expertise": {
@@ -1251,13 +1365,13 @@
             ],
             "restaurants": [
               "Pujol - world-renowned modern Mexican fine dining",
-              "Azul Histórico - traditional Mexican in beautiful courtyard",
+              "Azul HistÃ³rico - traditional Mexican in beautiful courtyard",
               "Mercado de San Juan - gourmet market with exotic ingredients",
               "Tacos El Huequito - famous for al pastor tacos",
               "Contramar - legendary seafood restaurant",
-              "Café de Tacuba - historic restaurant since 1912"
+              "CafÃ© de Tacuba - historic restaurant since 1912"
             ],
-            "otherExperiences": "Explore world-class museums like Anthropology and Frida Kahlo. Take street food tour through different neighborhoods for authentic tacos. Visit Xochimilco floating gardens for trajinera boat rides. Day trip to Teotihuacán pyramids with early morning departure."
+            "otherExperiences": "Explore world-class museums like Anthropology and Frida Kahlo. Take street food tour through different neighborhoods for authentic tacos. Visit Xochimilco floating gardens for trajinera boat rides. Day trip to TeotihuacÃ¡n pyramids with early morning departure."
           },
           {
             "title": "Tulum Mayan ruins and cenote swimming",
@@ -1278,7 +1392,7 @@
               "Posada Margherita - Italian beachfront dining",
               "Local taco stands - authentic cochinita pibil"
             ],
-            "otherExperiences": "Visit Tulum ruins early morning for fewer crowds and better lighting. Swim in cenotes (natural sinkholes) like Gran Cenote or Dos Ojos. Rent bicycle to explore between beach and jungle hotels. Take day trip to Cobá ruins for climbable pyramid."
+            "otherExperiences": "Visit Tulum ruins early morning for fewer crowds and better lighting. Swim in cenotes (natural sinkholes) like Gran Cenote or Dos Ojos. Rent bicycle to explore between beach and jungle hotels. Take day trip to CobÃ¡ ruins for climbable pyramid."
           },
           {
             "title": "Oaxaca indigenous culture and mezcal tasting",
@@ -1299,7 +1413,7 @@
               "Los Danzantes - restaurant and mezcal bar",
               "Street vendors - chapulines (grasshoppers) and tlayudas"
             ],
-            "otherExperiences": "Take mezcal tasting tour to learn about traditional production. Visit Monte Albán Zapotec ruins with panoramic valley views. Explore indigenous markets for textiles and handicrafts. Take cooking class learning mole and other regional dishes."
+            "otherExperiences": "Take mezcal tasting tour to learn about traditional production. Visit Monte AlbÃ¡n Zapotec ruins with panoramic valley views. Explore indigenous markets for textiles and handicrafts. Take cooking class learning mole and other regional dishes."
           },
           {
             "title": "San Miguel de Allende colonial architecture and art scene",
@@ -1314,7 +1428,7 @@
             ],
             "restaurants": [
               "Aperi - contemporary fine dining with local ingredients",
-              "Café Monet - garden restaurant popular with expats",
+              "CafÃ© Monet - garden restaurant popular with expats",
               "La Parada - traditional Mexican street food elevated",
               "The Restaurant - fine dining at Hotel Matilda",
               "Local markets - fresh produce and traditional sweets",
@@ -1323,7 +1437,11 @@
             "otherExperiences": "Explore UNESCO World Heritage colonial architecture and pink stone cathedral. Visit art galleries and studios of international artist community. Take day trip to nearby hot springs at Escondido Place. Learn traditional crafts like pottery or weaving from local artisans."
           }
         ],
-        "recommendationTypes": ["food", "activities", "family"]
+        "recommendationTypes": [
+          "food",
+          "activities",
+          "family"
+        ]
       },
       "preferences": {
         "availability": "daily"
@@ -1343,8 +1461,14 @@
         "gender": "female"
       },
       "travelStyle": {
-        "travelMethods": ["solo", "couple"],
-        "budgetStyles": ["mid-range", "luxury"],
+        "travelMethods": [
+          "solo",
+          "couple"
+        ],
+        "budgetStyles": [
+          "mid-range",
+          "luxury"
+        ],
         "familySituation": "couple-no-kids"
       },
       "expertise": {
@@ -1426,7 +1550,7 @@
             "restaurants": [
               "Le Pigeon - innovative French restaurant",
               "Food truck pods - diverse international cuisines",
-              "Powell's Books Café - bookstore with café",
+              "Powell's Books CafÃ© - bookstore with cafÃ©",
               "Tasty n Alder - popular brunch and dinner spot",
               "Voodoo Doughnut - quirky doughnut shop",
               "Craft breweries - over 70 breweries in metro area"
@@ -1434,7 +1558,11 @@
             "otherExperiences": "Tour food cart pods for diverse international cuisines in one location. Take craft brewery tour to sample IPAs and unique flavors. Explore Powell's Books enormous independent bookstore. Visit Washington Park for rose garden and Japanese garden."
           }
         ],
-        "recommendationTypes": ["food", "activities", "hidden-gems"]
+        "recommendationTypes": [
+          "food",
+          "activities",
+          "hidden-gems"
+        ]
       },
       "preferences": {
         "availability": "few-times-week"
@@ -1454,8 +1582,14 @@
         "gender": "male"
       },
       "travelStyle": {
-        "travelMethods": ["friends", "solo"],
-        "budgetStyles": ["budget", "mid-range"],
+        "travelMethods": [
+          "friends",
+          "solo"
+        ],
+        "budgetStyles": [
+          "budget",
+          "mid-range"
+        ],
         "familySituation": "single"
       },
       "expertise": {
@@ -1496,7 +1630,7 @@
               "Moondance Restaurant - rooftop dining with lake views",
               "OR2K - vegetarian restaurant with garden setting",
               "Lakeside restaurants - fresh fish from Phewa Lake",
-              "German Bakery - European-style café popular with trekkers",
+              "German Bakery - European-style cafÃ© popular with trekkers",
               "Local Thakali restaurants - mountain cuisine",
               "Boomerang Restaurant - international cuisine with views"
             ],
@@ -1516,7 +1650,7 @@
             "restaurants": [
               "Ministry of Crab - famous for Sri Lankan mud crabs",
               "Nuga Gama - traditional village setting in city",
-              "Gallery Café - restaurant in former architect's office",
+              "Gallery CafÃ© - restaurant in former architect's office",
               "Local rice and curry - traditional meal with many curries",
               "String hoppers - traditional breakfast with coconut",
               "Galle Face Green food stalls - street food by the ocean"
@@ -1545,7 +1679,11 @@
             "otherExperiences": "Hike to Tiger's Nest Monastery (Paro Taktsang) famous clifftop temple. Experience traditional festivals with masked dances if timing aligns. Learn about Gross National Happiness philosophy unique to Bhutan. Visit traditional crafts schools preserving ancient skills."
           }
         ],
-        "recommendationTypes": ["adventure", "activities", "hidden-gems"]
+        "recommendationTypes": [
+          "adventure",
+          "activities",
+          "hidden-gems"
+        ]
       },
       "preferences": {
         "availability": "few-times-week"
@@ -1565,8 +1703,14 @@
         "gender": "female"
       },
       "travelStyle": {
-        "travelMethods": ["couple", "friends"],
-        "budgetStyles": ["mid-range", "luxury"],
+        "travelMethods": [
+          "couple",
+          "friends"
+        ],
+        "budgetStyles": [
+          "mid-range",
+          "luxury"
+        ],
         "familySituation": "couple-no-kids"
       },
       "expertise": {
@@ -1656,7 +1800,11 @@
             "otherExperiences": "Explore Knossos Minoan palace archaeological site near Heraklion. Hike Samaria Gorge for dramatic landscapes and wildlife. Visit Balos Lagoon for pristine beach accessible by boat or hike. Take cooking classes learning traditional Cretan dishes."
           }
         ],
-        "recommendationTypes": ["hotels", "food", "activities"]
+        "recommendationTypes": [
+          "hotels",
+          "food",
+          "activities"
+        ]
       },
       "preferences": {
         "availability": "few-times-week"
@@ -1676,8 +1824,14 @@
         "gender": "male"
       },
       "travelStyle": {
-        "travelMethods": ["family", "couple"],
-        "budgetStyles": ["mid-range", "adventure"],
+        "travelMethods": [
+          "family",
+          "couple"
+        ],
+        "budgetStyles": [
+          "mid-range",
+          "adventure"
+        ],
         "familySituation": "couple-with-kids"
       },
       "expertise": {
@@ -1694,7 +1848,7 @@
               "Sandman Signature Calgary Airport - convenient for Rockies trips"
             ],
             "restaurants": [
-              "River Café - fine dining on Prince's Island Park",
+              "River CafÃ© - fine dining on Prince's Island Park",
               "Charcut Roast House - local charcuterie and steaks",
               "Peters' Drive-In - Calgary institution for milkshakes",
               "Model Milk - trendy restaurant in former dairy",
@@ -1718,7 +1872,7 @@
               "The Bison Restaurant - farm-to-table Canadian cuisine",
               "Three Ravens Restaurant & Wine Bar - fine dining",
               "Tooloulou's - Cajun and Creole cuisine",
-              "Wild Flour Bakery Café - artisan breads and pastries",
+              "Wild Flour Bakery CafÃ© - artisan breads and pastries",
               "The Grizzly House - fondue restaurant institution",
               "Melissa's Restaurant - hearty breakfast and lunch"
             ],
@@ -1767,7 +1921,11 @@
             "otherExperiences": "Ski or snowboard world-class slopes in winter months. Mountain bike epic trails in summer including bike park. Take Peak 2 Peak Gondola between Whistler and Blackcomb mountains. Explore Whistler Village pedestrian-only resort town."
           }
         ],
-        "recommendationTypes": ["adventure", "family", "activities"]
+        "recommendationTypes": [
+          "adventure",
+          "family",
+          "activities"
+        ]
       },
       "preferences": {
         "availability": "daily"
@@ -1787,8 +1945,14 @@
         "gender": "female"
       },
       "travelStyle": {
-        "travelMethods": ["friends", "couple"],
-        "budgetStyles": ["budget", "mid-range"],
+        "travelMethods": [
+          "friends",
+          "couple"
+        ],
+        "budgetStyles": [
+          "budget",
+          "mid-range"
+        ],
         "familySituation": "single"
       },
       "expertise": {
@@ -1812,7 +1976,7 @@
               "Restaurant 360 - Michelin star fine dining",
               "Buza Bar - cliff bar with Adriatic Sea views"
             ],
-            "otherExperiences": "Walk medieval city walls early morning for Game of Thrones views. Take Game of Thrones walking tour to filming locations. Day trip to Lokrum Island for botanical gardens and peacocks. Take cable car up Mount Srđ for panoramic views."
+            "otherExperiences": "Walk medieval city walls early morning for Game of Thrones views. Take Game of Thrones walking tour to filming locations. Day trip to Lokrum Island for botanical gardens and peacocks. Take cable car up Mount SrÄ for panoramic views."
           },
           {
             "title": "Split Diocletian's Palace and island hopping",
@@ -1833,7 +1997,7 @@
               "Zinfandel Food & Wine Bar - wine bar with small plates",
               "Green Market - fresh produce and local specialties"
             ],
-            "otherExperiences": "Explore living ancient palace where locals live and work in Roman ruins. Take ferry to Hvar Island for lavender fields and nightlife. Visit Blue Cave on Biševo Island for natural phenomenon. Walk Marjan Hill for city and sea views."
+            "otherExperiences": "Explore living ancient palace where locals live and work in Roman ruins. Take ferry to Hvar Island for lavender fields and nightlife. Visit Blue Cave on BiÅ¡evo Island for natural phenomenon. Walk Marjan Hill for city and sea views."
           },
           {
             "title": "Plitvice Lakes National Park waterfalls and hiking",
@@ -1848,7 +2012,7 @@
             ],
             "restaurants": [
               "Restaurant Degenija - traditional Croatian cuisine",
-              "Bistro Vučnica - local trout specialties",
+              "Bistro VuÄnica - local trout specialties",
               "Park restaurants - simple meals with lake views",
               "Local family restaurants - home-style Croatian cooking",
               "Picnic areas - bring your own lunch for hiking",
@@ -1873,12 +2037,16 @@
               "Dolac Market - food stalls and fresh produce",
               "Mali Medo - local taverna with traditional atmosphere",
               "Mundoaka Street Food - modern take on Croatian street food",
-              "Café culture - coffee and pastry at sidewalk cafés"
+              "CafÃ© culture - coffee and pastry at sidewalk cafÃ©s"
             ],
             "otherExperiences": "Take funicular railway between lower and upper town historic districts. Explore colorful Dolac Market for fresh produce and local specialties. Visit Museum of Broken Relationships unique and quirky attraction. Walk through Maksimir Park for green space and zoo."
           }
         ],
-        "recommendationTypes": ["activities", "food", "hidden-gems"]
+        "recommendationTypes": [
+          "activities",
+          "food",
+          "hidden-gems"
+        ]
       },
       "preferences": {
         "availability": "few-times-week"
@@ -1898,8 +2066,14 @@
         "gender": "male"
       },
       "travelStyle": {
-        "travelMethods": ["family", "couple"],
-        "budgetStyles": ["luxury", "mid-range"],
+        "travelMethods": [
+          "family",
+          "couple"
+        ],
+        "budgetStyles": [
+          "luxury",
+          "mid-range"
+        ],
         "familySituation": "couple-with-kids"
       },
       "expertise": {
@@ -1923,7 +2097,7 @@
               "Local majlis dining - traditional Arabic hospitality",
               "Karak tea stalls - sweet tea culture throughout city"
             ],
-            "otherExperiences": "Experience luxury shopping at Villaggio and Place Vendôme malls. Take desert safari with dune bashing and traditional Bedouin dinner. Visit Museum of Islamic Art for world-class collection. Explore Souq Waqif traditional market for spices and crafts."
+            "otherExperiences": "Experience luxury shopping at Villaggio and Place VendÃ´me malls. Take desert safari with dune bashing and traditional Bedouin dinner. Visit Museum of Islamic Art for world-class collection. Explore Souq Waqif traditional market for spices and crafts."
           },
           {
             "title": "Kuwait heritage sites and pearl diving history",
@@ -1963,7 +2137,7 @@
               "Turkish House Restaurant - Ottoman cuisine",
               "Local majlis dining - traditional Omani hospitality",
               "Nizwa souq restaurants - traditional mountain cuisine",
-              "Frankincense trail cafés - historical spice route stops"
+              "Frankincense trail cafÃ©s - historical spice route stops"
             ],
             "otherExperiences": "Swim in crystal-clear wadis (oasis pools) like Wadi Shab and Wadi Bani Khalid. Explore Nizwa Fort and traditional souq for silver jewelry and dates. Take desert camping trip in Wahiba Sands with camel rides. Follow ancient frankincense trade routes."
           },
@@ -1989,7 +2163,11 @@
             "otherExperiences": "Visit historic Diriyah UNESCO World Heritage site near Riyadh. Experience traditional Saudi hospitality and cultural exchanges. Explore modern developments and futuristic city planning. Learn about Islamic culture and traditions (note: tourism is newly opened)."
           }
         ],
-        "recommendationTypes": ["hotels", "activities", "family"]
+        "recommendationTypes": [
+          "hotels",
+          "activities",
+          "family"
+        ]
       },
       "preferences": {
         "availability": "occasional"
@@ -2009,8 +2187,14 @@
         "gender": "female"
       },
       "travelStyle": {
-        "travelMethods": ["solo", "couple"],
-        "budgetStyles": ["budget", "mid-range"],
+        "travelMethods": [
+          "solo",
+          "couple"
+        ],
+        "budgetStyles": [
+          "budget",
+          "mid-range"
+        ],
         "familySituation": "single"
       },
       "expertise": {
@@ -2073,7 +2257,7 @@
               "Miso katsu - pork cutlet with red miso sauce",
               "Tebasaki - spicy chicken wings local favorite",
               "Traditional kishimen - flat wheat noodles",
-              "Toyota Commemorative Museum café - automotive-themed dining",
+              "Toyota Commemorative Museum cafÃ© - automotive-themed dining",
               "Local izakayas - traditional pub atmosphere"
             ],
             "otherExperiences": "Visit reconstructed Nagoya Castle with modern interior and traditional exterior. Tour Toyota Commemorative Museum for automotive and textile history. Experience traditional cormorant fishing on Kiso River. Take day trip to nearby Takayama for traditional architecture."
@@ -2100,7 +2284,11 @@
             "otherExperiences": "Feed sacred deer in Nara Park that bow for crackers. Visit Todaiji Temple housing giant bronze Buddha statue. Explore Kasuga Taisha shrine with thousands of stone lanterns. Walk through Isui-en Garden for traditional landscape design."
           }
         ],
-        "recommendationTypes": ["food", "activities", "hidden-gems"]
+        "recommendationTypes": [
+          "food",
+          "activities",
+          "hidden-gems"
+        ]
       },
       "preferences": {
         "availability": "few-times-week"
@@ -2120,14 +2308,21 @@
         "gender": "male"
       },
       "travelStyle": {
-        "travelMethods": ["friends", "solo"],
-        "budgetStyles": ["budget", "mid-range", "adventure"],
+        "travelMethods": [
+          "friends",
+          "solo"
+        ],
+        "budgetStyles": [
+          "budget",
+          "mid-range",
+          "adventure"
+        ],
         "familySituation": "single"
       },
       "expertise": {
         "areas": [
           {
-            "title": "São Paulo street art and nightlife",
+            "title": "SÃ£o Paulo street art and nightlife",
             "visits": "local",
             "isLocal": true,
             "hotels": [
@@ -2135,17 +2330,17 @@
               "Emiliano Hotel - luxury boutique in Jardins",
               "Casa Mosquito - trendy hostel in Vila Madalena",
               "WZ Hotel Jardins - design hotel in upscale neighborhood",
-              "Generator São Paulo - trendy hostel near Vila Madalena"
+              "Generator SÃ£o Paulo - trendy hostel near Vila Madalena"
             ],
             "restaurants": [
               "D.O.M. - world-renowned Brazilian fine dining",
               "Mercado Municipal - food market with mortadella sandwiches",
               "A Casa do Porco - famous for innovative pork dishes",
               "Pastel da Maria - traditional pastel in Vila Madalena",
-              "Mocotó - authentic northeastern Brazilian cuisine",
-              "Bar da Dona Onça - traditional bar food and cachaça"
+              "MocotÃ³ - authentic northeastern Brazilian cuisine",
+              "Bar da Dona OnÃ§a - traditional bar food and cachaÃ§a"
             ],
-            "otherExperiences": "Explore Vila Madalena for street art murals and vibrant nightlife. Experience São Paulo's legendary club scene in neighborhoods like Vila Olímpia. Take street art walking tour through Beco do Batman alley. Visit MASP art museum for Brazilian and international art."
+            "otherExperiences": "Explore Vila Madalena for street art murals and vibrant nightlife. Experience SÃ£o Paulo's legendary club scene in neighborhoods like Vila OlÃ­mpia. Take street art walking tour through Beco do Batman alley. Visit MASP art museum for Brazilian and international art."
           },
           {
             "title": "Salvador Bahia Afro-Brazilian culture and capoeira",
@@ -2161,12 +2356,12 @@
             "restaurants": [
               "Amado - contemporary Bahian cuisine with bay views",
               "Casa de Tereza - traditional Bahian in colonial house",
-              "Acarajé da Dinha - famous acarajé street food",
+              "AcarajÃ© da Dinha - famous acarajÃ© street food",
               "Restaurant do SENAC - culinary school restaurant",
               "Maria Mata Mouro - traditional moqueca and Bahian specialties",
-              "Street vendors - acarajé, abará, and cocada"
+              "Street vendors - acarajÃ©, abarÃ¡, and cocada"
             ],
-            "otherExperiences": "Experience capoeira performances and classes in Pelourinho. Participate in Afro-Brazilian candomblé spiritual ceremonies. Learn to drum and dance at cultural centers. Explore colorful colonial architecture in UNESCO World Heritage historic center."
+            "otherExperiences": "Experience capoeira performances and classes in Pelourinho. Participate in Afro-Brazilian candomblÃ© spiritual ceremonies. Learn to drum and dance at cultural centers. Explore colorful colonial architecture in UNESCO World Heritage historic center."
           },
           {
             "title": "Iguazu Falls Brazilian and Argentine sides",
@@ -2174,7 +2369,7 @@
             "isLocal": false,
             "hotels": [
               "Belmond Hotel das Cataratas - luxury inside Brazilian national park",
-              "Gran Meliá Iguazú - luxury inside Argentine national park",
+              "Gran MeliÃ¡ IguazÃº - luxury inside Argentine national park",
               "Hostel Inn Iguazu - budget backpacker option",
               "Loi Suites Iguazu Hotel - luxury with falls views",
               "Tetakawi Hostel - budget option near Brazilian park"
@@ -2183,7 +2378,7 @@
               "Porto Canoas - restaurant with falls views in park",
               "Churrascarias - Brazilian barbecue restaurants",
               "Argentine parrillas - grilled meat restaurants",
-              "Local fish restaurants - surubí and dorado",
+              "Local fish restaurants - surubÃ­ and dorado",
               "Hotel restaurants - international cuisine with views",
               "Street food - Brazilian and Argentine border specialties"
             ],
@@ -2195,29 +2390,33 @@
             "isLocal": false,
             "hotels": [
               "Amazon jungle lodges - eco-lodges in rainforest",
-              "Hotel Villa Amazônia - luxury boutique in Manaus",
+              "Hotel Villa AmazÃ´nia - luxury boutique in Manaus",
               "Amazon river boats - overnight expedition boats",
               "Budget pousadas - simple accommodations near river",
               "Floating hotels - unique river accommodations"
             ],
             "restaurants": [
-              "Amazonian cuisine - exotic fish like tucumã and pirarucu",
+              "Amazonian cuisine - exotic fish like tucumÃ£ and pirarucu",
               "Local markets - tropical fruits and river fish",
               "Lodge dining - fresh caught fish and jungle ingredients",
               "Traditional riverside restaurants - regional specialties",
               "Indigenous cooking - learning traditional preparation methods",
-              "Açaí vendors - original superfood in various preparations"
+              "AÃ§aÃ­ vendors - original superfood in various preparations"
             ],
             "otherExperiences": "Take multi-day Amazon river expedition with indigenous guides. Learn about medicinal plants and survival skills from local communities. Spot pink river dolphins, sloths, and exotic birds. Experience indigenous culture and traditional crafts workshops."
           }
         ],
-        "recommendationTypes": ["adventure", "nightlife", "hidden-gems"]
+        "recommendationTypes": [
+          "adventure",
+          "nightlife",
+          "hidden-gems"
+        ]
       },
       "preferences": {
         "availability": "few-times-week"
       },
       "finalDetails": {
-        "bio": "São Paulo artist and adventure guide who has explored Brazil's incredible diversity from urban jungle to Amazon rainforest. I love sharing authentic Brazilian culture and hidden gems.",
+        "bio": "SÃ£o Paulo artist and adventure guide who has explored Brazil's incredible diversity from urban jungle to Amazon rainforest. I love sharing authentic Brazilian culture and hidden gems.",
         "instagram": "@lucasbraziltravel",
         "tiktok": "@brazilhidden"
       }
@@ -2231,8 +2430,14 @@
         "gender": "female"
       },
       "travelStyle": {
-        "travelMethods": ["couple", "friends"],
-        "budgetStyles": ["mid-range", "luxury"],
+        "travelMethods": [
+          "couple",
+          "friends"
+        ],
+        "budgetStyles": [
+          "mid-range",
+          "luxury"
+        ],
         "familySituation": "couple-no-kids"
       },
       "expertise": {
@@ -2252,7 +2457,7 @@
               "Restaurant Kronenhalle - legendary fine dining with art collection",
               "Zunfthaus zur Waag - traditional Swiss in historic guildhall",
               "Frau Gerolds Garten - trendy food trucks and beer garden",
-              "Confiserie Sprüngli - famous for Luxemburgerli macarons",
+              "Confiserie SprÃ¼ngli - famous for Luxemburgerli macarons",
               "Hiltl - world's oldest vegetarian restaurant",
               "Swiss cheese fondue - traditional melted cheese experience"
             ],
@@ -2264,7 +2469,7 @@
             "isLocal": false,
             "hotels": [
               "Hotel des Balances - luxury overlooking river and mountains",
-              "Grand Hotel National - Belle Époque luxury on lake",
+              "Grand Hotel National - Belle Ãpoque luxury on lake",
               "Backpackers Lucerne - budget hostel near train station",
               "The Hotel Lucerne - boutique in historic building",
               "Art Deco Hotel Montana - luxury with mountain views"
@@ -2273,7 +2478,7 @@
               "Restaurant Balances - fine dining with river views",
               "Wirtshaus Galliker - traditional Swiss atmosphere",
               "Old Swiss House - famous for Wiener schnitzel preparation",
-              "Café de Ville - historic café on Reuss River",
+              "CafÃ© de Ville - historic cafÃ© on Reuss River",
               "Fondue restaurants - traditional melted cheese with bread",
               "Mountain restaurants - accessible by cable car with views"
             ],
@@ -2312,8 +2517,8 @@
               "Nash Airport Hotel - convenient for international travelers"
             ],
             "restaurants": [
-              "Restaurant de l'Hôtel de Ville - three Michelin star fine dining",
-              "Café du Centre - traditional brasserie atmosphere",
+              "Restaurant de l'HÃ´tel de Ville - three Michelin star fine dining",
+              "CafÃ© du Centre - traditional brasserie atmosphere",
               "Fondue restaurants - Swiss cheese specialties",
               "Il Lago - Italian fine dining with lake views",
               "Les Armures - historic restaurant in old town",
@@ -2322,7 +2527,11 @@
             "otherExperiences": "Visit United Nations headquarters and international organizations. Explore CERN particle physics laboratory with guided tours. Take boat cruises on Lake Geneva to nearby French and Swiss towns. Experience luxury shopping and Swiss watch craftsmanship."
           }
         ],
-        "recommendationTypes": ["activities", "hotels", "transportation"]
+        "recommendationTypes": [
+          "activities",
+          "hotels",
+          "transportation"
+        ]
       },
       "preferences": {
         "availability": "few-times-week"
@@ -2342,8 +2551,14 @@
         "gender": "male"
       },
       "travelStyle": {
-        "travelMethods": ["family", "couple"],
-        "budgetStyles": ["mid-range", "luxury"],
+        "travelMethods": [
+          "family",
+          "couple"
+        ],
+        "budgetStyles": [
+          "mid-range",
+          "luxury"
+        ],
         "familySituation": "couple-with-kids"
       },
       "expertise": {
@@ -2360,7 +2575,7 @@
               "Sofitel Casablanca Tour Blanche - luxury business hotel"
             ],
             "restaurants": [
-              "Rick's Café - inspired by Casablanca movie",
+              "Rick's CafÃ© - inspired by Casablanca movie",
               "La Sqala - traditional Moroccan in historic fortress",
               "Le Cabestan - seafood with ocean views",
               "Traditional tagine restaurants - slow-cooked stews",
@@ -2374,7 +2589,7 @@
             "visits": "10+",
             "isLocal": false,
             "hotels": [
-              "Riad Fès - luxury riad with traditional architecture",
+              "Riad FÃ¨s - luxury riad with traditional architecture",
               "Palais Faraj Suites & Spa - luxury overlooking medina",
               "Riad Rcif - boutique riad in medina",
               "Budget riads - traditional guesthouses",
@@ -2382,7 +2597,7 @@
             ],
             "restaurants": [
               "Restaurant Dar Roumana - fine dining in restored riad",
-              "Café Clock - cultural center with fusion cuisine",
+              "CafÃ© Clock - cultural center with fusion cuisine",
               "Traditional Fassi cuisine - local specialties like pastilla",
               "Medina food stalls - street food and fresh bread",
               "Moroccan cooking classes - learning tagine and couscous",
@@ -2425,7 +2640,7 @@
             "restaurants": [
               "Waterfront fish grills - fresh catch from Atlantic",
               "Traditional tagine restaurants - slow-cooked specialties",
-              "Café de France - historic café overlooking harbor",
+              "CafÃ© de France - historic cafÃ© overlooking harbor",
               "Moroccan-Portuguese fusion - reflecting historical connections",
               "Argan oil cuisine - local specialty ingredient",
               "Seafood markets - fresh fish and local preparation"
@@ -2433,7 +2648,11 @@
             "otherExperiences": "Experience constant Atlantic winds perfect for windsurfing and kitesurfing. Explore Portuguese fortifications and UNESCO World Heritage medina. Visit women's argan oil cooperatives for traditional production methods. Enjoy fresh seafood at harbor-side grills."
           }
         ],
-        "recommendationTypes": ["activities", "family", "food"]
+        "recommendationTypes": [
+          "activities",
+          "family",
+          "food"
+        ]
       },
       "preferences": {
         "availability": "occasional"
@@ -2453,8 +2672,14 @@
         "gender": "female"
       },
       "travelStyle": {
-        "travelMethods": ["couple", "solo"],
-        "budgetStyles": ["luxury", "mid-range"],
+        "travelMethods": [
+          "couple",
+          "solo"
+        ],
+        "budgetStyles": [
+          "luxury",
+          "mid-range"
+        ],
         "familySituation": "empty-nesters"
       },
       "expertise": {
@@ -2495,7 +2720,7 @@
               "Mariposa Latin Inspired Grill - fine dining with red rock views",
               "The Hudson - contemporary American cuisine",
               "Coffee Pot Restaurant - local breakfast institution",
-              "Elote Café - modern Mexican small plates",
+              "Elote CafÃ© - modern Mexican small plates",
               "Oak Creek Brewery - craft beer with patio dining",
               "Red rock picnics - scenic outdoor dining"
             ],
@@ -2537,14 +2762,18 @@
               "Bacchanalia - fine dining Atlanta institution",
               "Mary Mac's Tea Room - traditional Southern comfort food",
               "The Varsity - drive-in institution for chili dogs",
-              "Busy Bee Café - soul food loved by locals",
+              "Busy Bee CafÃ© - soul food loved by locals",
               "Ponce City Market - food hall in historic building",
               "Southern BBQ joints - authentic smokehouse cuisine"
             ],
             "otherExperiences": "Visit Martin Luther King Jr. National Historical Park for civil rights history. Explore vibrant neighborhoods like Virginia-Highland and Little Five Points. Tour CNN Center and World of Coca-Cola attractions. Experience Atlanta's music scene from country to hip-hop."
           }
         ],
-        "recommendationTypes": ["hotels", "activities", "food"]
+        "recommendationTypes": [
+          "hotels",
+          "activities",
+          "food"
+        ]
       },
       "preferences": {
         "availability": "occasional"
@@ -2564,8 +2793,14 @@
         "gender": "male"
       },
       "travelStyle": {
-        "travelMethods": ["solo", "friends"],
-        "budgetStyles": ["budget", "mid-range"],
+        "travelMethods": [
+          "solo",
+          "friends"
+        ],
+        "budgetStyles": [
+          "budget",
+          "mid-range"
+        ],
         "familySituation": "single"
       },
       "expertise": {
@@ -2584,8 +2819,8 @@
             "restaurants": [
               "Charteris - fine dining with New Zealand ingredients",
               "Logan Brown - fine dining in former bank building",
-              "Fidel's Café - Cuban-inspired café popular with locals",
-              "Moore Wilson's - gourmet food market and café",
+              "Fidel's CafÃ© - Cuban-inspired cafÃ© popular with locals",
+              "Moore Wilson's - gourmet food market and cafÃ©",
               "Craft beer breweries - over 20 craft breweries in region",
               "Flat white coffee - New Zealand coffee culture"
             ],
@@ -2626,7 +2861,7 @@
             "restaurants": [
               "Hangi feasts - traditional Maori earth oven cooking",
               "Atticus Finch - fine dining with local ingredients",
-              "Third Place Café - popular local breakfast spot",
+              "Third Place CafÃ© - popular local breakfast spot",
               "Maori cultural experiences - traditional food preparation",
               "Manuka honey tastings - New Zealand specialty",
               "Geothermal cooking - unique preparation methods"
@@ -2645,7 +2880,7 @@
               "Waiheke Island accommodations - vineyard stays and beach lodges"
             ],
             "restaurants": [
-              "The French Café - fine dining Auckland institution",
+              "The French CafÃ© - fine dining Auckland institution",
               "Depot Eatery - casual dining by celebrity chef",
               "Auckland Fish Market - fresh seafood and sushi",
               "Waiheke Island wineries - wine tasting with harbor views",
@@ -2655,7 +2890,11 @@
             "otherExperiences": "Take ferry to Waiheke Island for wine tasting and beaches. Climb Sky Tower for panoramic harbor views or bungee jump. Explore Auckland War Memorial Museum for Maori and Pacific collections. Experience diverse neighborhoods from Ponsonby to Mission Bay."
           }
         ],
-        "recommendationTypes": ["adventure", "activities", "food"]
+        "recommendationTypes": [
+          "adventure",
+          "activities",
+          "food"
+        ]
       },
       "preferences": {
         "availability": "few-times-week"
@@ -2675,8 +2914,14 @@
         "gender": "female"
       },
       "travelStyle": {
-        "travelMethods": ["couple", "solo"],
-        "budgetStyles": ["mid-range", "luxury"],
+        "travelMethods": [
+          "couple",
+          "solo"
+        ],
+        "budgetStyles": [
+          "mid-range",
+          "luxury"
+        ],
         "familySituation": "couple-no-kids"
       },
       "expertise": {
@@ -2751,8 +2996,8 @@
             "hotels": [
               "Le Lagon Resort - luxury overwater accommodations",
               "Sheraton New Caledonia Deva Spa & Golf Resort - luxury resort",
-              "Budget accommodations - gîtes and pensions",
-              "Le Méridien Nouméa - luxury in capital city",
+              "Budget accommodations - gÃ®tes and pensions",
+              "Le MÃ©ridien NoumÃ©a - luxury in capital city",
               "Traditional Kanak accommodations - cultural village stays"
             ],
             "restaurants": [
@@ -2760,13 +3005,17 @@
               "Traditional Kanak cuisine - indigenous cooking methods",
               "Fresh seafood - Pacific catch prepared French style",
               "Wine culture - French wines and local specialties",
-              "Nouméa restaurants - cosmopolitan dining scene",
+              "NoumÃ©a restaurants - cosmopolitan dining scene",
               "Cultural exchanges - meals with Kanak communities"
             ],
-            "otherExperiences": "Experience unique blend of French sophistication and Melanesian culture. Snorkel in world's largest lagoon UNESCO World Heritage site. Learn about Kanak culture and traditional customs. Explore French colonial architecture in Nouméa."
+            "otherExperiences": "Experience unique blend of French sophistication and Melanesian culture. Snorkel in world's largest lagoon UNESCO World Heritage site. Learn about Kanak culture and traditional customs. Explore French colonial architecture in NoumÃ©a."
           }
         ],
-        "recommendationTypes": ["hotels", "activities", "hidden-gems"]
+        "recommendationTypes": [
+          "hotels",
+          "activities",
+          "hidden-gems"
+        ]
       },
       "preferences": {
         "availability": "occasional"
@@ -2786,8 +3035,14 @@
         "gender": "male"
       },
       "travelStyle": {
-        "travelMethods": ["family", "couple"],
-        "budgetStyles": ["mid-range", "luxury"],
+        "travelMethods": [
+          "family",
+          "couple"
+        ],
+        "budgetStyles": [
+          "mid-range",
+          "luxury"
+        ],
         "familySituation": "couple-with-kids"
       },
       "expertise": {
@@ -2798,7 +3053,7 @@
             "isLocal": true,
             "hotels": [
               "Nayara Gardens - luxury rainforest resort with sloths",
-              "Tabacón Thermal Resort & Spa - luxury hot springs resort",
+              "TabacÃ³n Thermal Resort & Spa - luxury hot springs resort",
               "Eco-lodges - sustainable accommodations in national parks",
               "Budget hostels - backpacker accommodations",
               "Treehouses - unique canopy accommodations"
@@ -2828,7 +3083,7 @@
               "Beachfront restaurants - fresh seafood with ocean views",
               "Traditional Costa Rican cuisine - casado and gallo pinto",
               "Tropical smoothies - fresh fruit combinations",
-              "El Avión - restaurant in converted airplane",
+              "El AviÃ³n - restaurant in converted airplane",
               "Local sodas - family-run traditional restaurants",
               "Coffee culture - high-quality local roasts"
             ],
@@ -2839,7 +3094,7 @@
             "visits": "6-10",
             "isLocal": false,
             "hotels": [
-              "Tabacón Thermal Resort & Spa - luxury hot springs resort",
+              "TabacÃ³n Thermal Resort & Spa - luxury hot springs resort",
               "Nayara Gardens - luxury with volcano views",
               "Budget lodges - affordable accommodations near volcano",
               "Adventure lodges - accommodations with activity packages",
@@ -2877,7 +3132,11 @@
             "otherExperiences": "Explore unique cloud forest ecosystem with endemic species. Take guided night walks for different wildlife including nocturnal creatures. Experience sustainable tourism model and conservation efforts. Learn about scientific research and biodiversity protection."
           }
         ],
-        "recommendationTypes": ["adventure", "family", "activities"]
+        "recommendationTypes": [
+          "adventure",
+          "family",
+          "activities"
+        ]
       },
       "preferences": {
         "availability": "daily"
@@ -2897,8 +3156,14 @@
         "gender": "female"
       },
       "travelStyle": {
-        "travelMethods": ["couple", "friends"],
-        "budgetStyles": ["mid-range", "luxury"],
+        "travelMethods": [
+          "couple",
+          "friends"
+        ],
+        "budgetStyles": [
+          "mid-range",
+          "luxury"
+        ],
         "familySituation": "couple-no-kids"
       },
       "expertise": {
@@ -2936,7 +3201,7 @@
               "Lotte Hotel Moscow - modern luxury near Red Square"
             ],
             "restaurants": [
-              "Café Pushkin - elegant restaurant in historic mansion",
+              "CafÃ© Pushkin - elegant restaurant in historic mansion",
               "White Rabbit - contemporary Russian fine dining with city views",
               "Traditional borscht and beef stroganoff - Russian classics",
               "GUM department store dining - upscale food court",
@@ -2988,7 +3253,11 @@
             "otherExperiences": "Explore Kazan Kremlin UNESCO World Heritage site with mosque and Orthodox cathedral. Experience Tatar culture and Islamic traditions within Russia. Learn about Volga region history and diverse ethnic heritage. Visit during cultural festivals for traditional music and dance."
           }
         ],
-        "recommendationTypes": ["activities", "food", "hidden-gems"]
+        "recommendationTypes": [
+          "activities",
+          "food",
+          "hidden-gems"
+        ]
       },
       "preferences": {
         "availability": "few-times-week"
@@ -3008,8 +3277,14 @@
         "gender": "male"
       },
       "travelStyle": {
-        "travelMethods": ["couple", "family"],
-        "budgetStyles": ["mid-range", "luxury"],
+        "travelMethods": [
+          "couple",
+          "family"
+        ],
+        "budgetStyles": [
+          "mid-range",
+          "luxury"
+        ],
         "familySituation": "couple-with-kids"
       },
       "expertise": {
@@ -3083,7 +3358,7 @@
             "isLocal": false,
             "hotels": [
               "Algonquin Resort - luxury resort in St. Andrews",
-              "Château Moncton - luxury in downtown Moncton",
+              "ChÃ¢teau Moncton - luxury in downtown Moncton",
               "Fundy National Park accommodations - cabins and camping",
               "Budget accommodations - various hostel and motel options",
               "Luxury wilderness lodges - remote nature experiences"
@@ -3099,7 +3374,11 @@
             "otherExperiences": "Experience world's highest tides in Bay of Fundy with 50-foot changes. Walk on ocean floor at low tide and see it covered at high tide. Explore Hopewell Rocks sea stacks accessible only at low tide. Experience both French Acadian and English Maritime cultures."
           }
         ],
-        "recommendationTypes": ["family", "activities", "food"]
+        "recommendationTypes": [
+          "family",
+          "activities",
+          "food"
+        ]
       },
       "preferences": {
         "availability": "few-times-week"
@@ -3108,6 +3387,58 @@
         "bio": "Halifax maritime historian and father who has explored Canada's Maritime provinces extensively. I love sharing maritime heritage and helping families experience authentic East Coast culture.",
         "instagram": "@williammaritiimescanada",
         "tiktok": "N/A"
+      }
+    },
+    {
+      "personalInfo": {
+        "firstName": "Joel The Great",
+        "lastName": "Weingarten",
+        "email": "jweingarten@gmail.com",
+        "ageRange": "25-34",
+        "gender": "male"
+      },
+      "travelStyle": {
+        "travelMethods": [
+          "solo",
+          "friends",
+          "couple"
+        ],
+        "budgetStyles": [
+          "luxury"
+        ],
+        "familySituation": "couple-with-kids"
+      },
+      "expertise": {
+        "areas": [
+          {
+            "title": "Darwin",
+            "visits": "3-5",
+            "isLocal": false,
+            "hotels": [
+              "H on Mitchell Apartment Hotel - 105 Mitchell St (4.2⭐)",
+              "DoubleTree by Hilton Hotel Esplanade Darwin - 116 Esplanade (4.1⭐)",
+              "Darwin City Hotel - 59 Smith St (3.8⭐)"
+            ],
+            "restaurants": [
+              "Hanuman Restaurant Darwin - 93 Mitchell St (4.5⭐)",
+              "Nirvana - 14 Dashwood Cres (4.4⭐)",
+              "Esplanade Restaurant & Terrace - Novotel Darwin CBD 100 (4.1⭐)"
+            ],
+            "otherExperiences": "Kakadu tour"
+          }
+        ],
+        "recommendationTypes": [
+          "hotels",
+          "transportation"
+        ]
+      },
+      "preferences": {
+        "availability": "few-times-week"
+      },
+      "finalDetails": {
+        "bio": "I love Oz",
+        "instagram": "@julio",
+        "tiktok": "@juolio"
       }
     }
   ]
