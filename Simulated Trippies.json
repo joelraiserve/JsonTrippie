@@ -120,7 +120,57 @@
         "instagram": "@jessicalatravel",
         "tiktok": "@lacityguide"
       }
-    },
+    },{
+  "personalInfo": {
+    "firstName": "Mary",
+    "lastName": "Smith",
+    "email": "maria.rodriguez.nyc@gmail.com",
+    "ageRange": "45-54",
+    "gender": "female"
+  },
+  "travelStyle": {
+    "travelMethods": ["family"],
+    "budgetStyles": ["budget"],
+    "familySituation": "couple-with-kids"
+  },
+  "expertise": {
+    "areas": [
+      {
+        "title": "Budget family vacations in New York City",
+        "visits": "local",
+        "isLocal": true,
+        "hotels": [
+          "Pod Hotels (multiple locations) - Modern micro-rooms perfect for families on a budget. Pod Times Square and Pod Brooklyn are great options. Bunk beds kids love.",
+          "HI New York City Hostel on Upper West Side - Clean, safe family rooms with private bathrooms. Great neighborhood near Central Park and museums.",
+          "YMCA - Several locations offer affordable family rooms. West Side YMCA has pool access included. Safe, clean, and family-friendly.",
+          "Row NYC in Times Square - Budget-friendly with small but efficient rooms. Kids love the location and it's walking distance to everything.",
+          "Brooklyn neighborhoods (Airbnb) - Williamsburg or Park Slope family apartments often cheaper than Manhattan hotels. Easy subway access to attractions.",
+          "Queens family motels - LaGuardia area has budget motels with family rooms. Not glamorous but very affordable, 20-30 min to Manhattan by subway."
+        ],
+        "restaurants": [
+          "Joe's Pizza - Multiple locations, classic NY slice for $3-4. Kids always love it. Original location in Greenwich Village.",
+          "Katz's Delicatessen - Split the huge pastrami sandwiches between 2-3 people. Expensive but worth it for the experience and portions.",
+          "Xi'an Famous Foods - Amazing hand-pulled noodles for $8-12 per bowl. Kids love watching noodle making. Multiple locations.",
+          "Los Tacos No. 1 (food truck/stands) - $3-4 authentic tacos. Kids can try different types. Locations in Times Square and Chelsea Market.",
+          "Halal Guys food cart - $8-10 platters feed adults, $6 for kids. Find the original cart on 53rd & 6th. Always a line but moves fast.",
+          "Chinatown food courts - Amazing dumplings for $1-2 each. Joe's Shanghai for soup dumplings. Kids love trying different things.",
+          "Brooklyn Smorgasburg (weekends) - Food market with $8-15 portions. Split between family. Great views of Manhattan. Spring-fall only.",
+          "99 Cent Fresh Pizza - Multiple locations. Decent pizza slices for under $2. Perfect for quick, cheap family meals."
+        ],
+        "otherExperiences": "Free activities are key to budget NYC trips! Central Park is completely free - bring picnic lunches, rent bikes for $15/hour for whole family. Staten Island Ferry is FREE with amazing Statue of Liberty views. Many museums have 'pay what you wish' hours - Brooklyn Museum Friday evenings, Bronx Zoo Wednesday afternoons. Free outdoor movies in Bryant Park and Central Park in summer. Walking tours often work on tips only. High Line park is free with great city views. Coney Island beach and boardwalk are free - just pay for rides if you want. Use unlimited MetroCards for family ($33/week vs $2.90 per ride). Pack snacks and water bottles - NYC food gets expensive fast. Visit during school hours when possible for smaller crowds. Washington Square Park has free entertainment. Brooklyn Bridge walk is free and iconic."
+      }
+    ],
+    "recommendationTypes": ["hotels", "food", "activities"]
+  },
+  "preferences": {
+    "availability": "daily"
+  },
+  "finalDetails": {
+    "bio": "As a born-and-raised New Yorker and mom of three kids (ages 8, 12, and 15), I've mastered the art of showing families an amazing NYC experience without breaking the bank. Living here my whole life, I know all the local secrets - the best free activities, which food trucks have the most bang for your buck, and how to navigate the subway system with kids and strollers. I believe every family deserves to experience the magic of NYC, regardless of budget. From finding affordable places to stay to discovering incredible $5 meals that will become family favorites, I'm passionate about proving that you don't need to spend a fortune to fall in love with the greatest city in the world. My kids have been my best co-researchers in finding family-friendly spots that won't drain your wallet!",
+    "instagram": "@nycmombudget",
+    "tiktok": "@budgetfamilynyc"
+  }
+},
     {
       "personalInfo": {
         "firstName": "David",
