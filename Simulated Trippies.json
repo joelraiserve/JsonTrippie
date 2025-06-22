@@ -1,7 +1,7 @@
 {
   "tripie_applications": [
     {
-      "personalInfo": {
+      "personalInfo": {n
         "firstName": "Jessica",
         "lastName": "Martinez",
         "email": "jessica.martinez@email.com",
@@ -3859,7 +3859,7 @@
       "expertise": {
         "areas": [
           {
-            "title": "New York",
+            "title": "Manhattan",
             "visits": "local",
             "isLocal": true,
             "hotels": [
