@@ -3679,6 +3679,79 @@
       }
     },
     {
+  "personalInfo": {
+    "firstName": "Sarah",
+    "lastName": "Parsons",
+    "email": "sarah.parsons.travel@gmail.com",
+    "ageRange": "35-44",
+    "gender": "female"
+  },
+  "travelStyle": {
+    "travelMethods": ["family", "couple"],
+    "budgetStyles": ["luxury", "mid-range"],
+    "familySituation": "couple-with-kids"
+  },
+  "expertise": {
+    "areas": [
+      {
+        "title": "Luxury family vacations to Disney World",
+        "visits": "10+",
+        "isLocal": false,
+        "hotels": [
+          "Disney's Grand Floridian Resort & Spa - The crown jewel of Disney resorts, perfect for families wanting luxury with monorail access to Magic Kingdom. Concierge level is worth the splurge.",
+          "Disney's Polynesian Village Resort - Beautiful theming with easy Magic Kingdom access. The club level lounge has amazing breakfast and evening appetizers that kids love.",
+          "Four Seasons Resort Orlando at Walt Disney World - Non-Disney luxury option with incredible pools, kids club, and close proximity to all parks. Best spa on property.",
+          "Disney's Contemporary Resort - Modern luxury with monorail running through the hotel. Bay Lake Tower DVC villas offer extra space for families.",
+          "Disney's Animal Kingdom Lodge - Unique savanna views from rooms, incredible theming, and excellent dining. Jambo House preferred over Kidani Village for first-timers.",
+          "Disney's Beach Club Resort - New England charm with amazing Stormalong Bay pool complex. Walking distance to EPCOT and Hollywood Studios."
+        ],
+        "restaurants": [
+          "Victoria & Albert's at Grand Floridian - Adults-only fine dining for parents' night out. Book chef's table for ultimate experience. Use Disney babysitting services.",
+          "Monsieur Paul at EPCOT - Elegant French cuisine on the second floor of Les Halles. Perfect for couples dinner while kids enjoy EPCOT attractions.",
+          "California Grill at Contemporary - Stunning views of Magic Kingdom fireworks with sophisticated menu. Request fireworks window seating well in advance.",
+          "Jiko at Animal Kingdom Lodge - African-inspired cuisine with incredible wine list. Kids menu available but atmosphere better for older children.",
+          "Flying Fish at BoardWalk - Upscale seafood with creative preparations. Great for date night when staying at EPCOT area resorts.",
+          "Wolfgang Puck Bar & Grill at Disney Springs - Elevated casual dining with options for both adults and kids. Great for lunch between park days."
+        ],
+        "otherExperiences": "VIP tours are worth it for families with young kids - no waiting in lines and personalized experience. Book Caring for Cubs babysitting service for parents' nights out. Consider staying 7+ days to truly enjoy resort amenities. Magic Kingdom should get 2-3 days minimum. EPCOT is great for older kids who enjoy cultural experiences. Always book dining reservations 60 days out if staying on property. Genie+ is essential during busy seasons. Stay hydrated and take midday breaks at the resort pool."
+      },
+      {
+        "title": "High-end couples foodie experiences in New York City",
+        "visits": "15+",
+        "isLocal": false,
+        "hotels": [
+          "The St. Regis New York - Timeless elegance in Midtown with impeccable service and prime location for theater district dining.",
+          "The Plaza Hotel - Iconic luxury with Central Park views. Perfect romantic setting and close to high-end shopping and dining.",
+          "1 Hotels Central Park - Modern luxury with sustainability focus. Rooftop bar has incredible city views for cocktails.",
+          "The Greenwich Hotel - Boutique luxury in Tribeca with unique design and proximity to the best downtown restaurants.",
+          "The Carlyle, A Rosewood Hotel - Upper East Side sophistication with legendary Bemelmans Bar for classic cocktails.",
+          "Park Hyatt New York - Modern minimalist luxury near Carnegie Hall with excellent concierge for restaurant reservations."
+        ],
+        "restaurants": [
+          "Eleven Madison Park - Plant-based tasting menu that's absolutely transcendent. Book months in advance. The experience is worth the splurge.",
+          "Le Bernardin - Eric Ripert's seafood masterpiece. Lunch prix fixe is more accessible than dinner. Pair with wine selection.",
+          "Per Se - Thomas Keller's NYC flagship. Dinner is a 3-4 hour experience. Request Central Park view tables when booking.",
+          "Daniel - Daniel Boulud's elegant French cuisine on Upper East Side. More intimate than some other Michelin stars.",
+          "Gramercy Tavern - Danny Meyer's warm hospitality with seasonal American cuisine. Tavern room is more casual than dining room.",
+          "Blue Hill at Stone Barns - Worth the trip to Westchester for farm-to-table experience. Arrange car service and make it a day trip.",
+          "Atomix - Korean fine dining that's creative and delicious. Counter seating for interactive experience with chefs.",
+          "The Modern - Contemporary American at MoMA. Lunch is great value and you can visit the museum after."
+        ],
+        "otherExperiences": "Book prime restaurant reservations through concierge or Resy/OpenTable exactly when they open bookings. Consider food tours in different neighborhoods - Greenwich Village, Lower East Side, Chinatown. Wine tastings at Eataly or Chelsea Market. Cooking classes at Institute of Culinary Education for hands-on experience. Visit Union Square Greenmarket on Saturdays. Broadway shows pair perfectly with pre-theater dining. Walk the High Line after brunch in Meatpacking District. Helicopter tours offer romantic city views and photo ops."
+      }
+    ],
+    "recommendationTypes": ["hotels", "food", "activities"]
+  },
+  "preferences": {
+    "availability": "few-times-week"
+  },
+  "finalDetails": {
+    "bio": "I'm passionate about creating magical family memories and romantic culinary adventures. With over 15 years of experience planning luxury family trips to Disney World and foodie getaways to NYC, I understand that the details make all the difference. Whether you're looking to surprise your kids with VIP Disney experiences or planning an anniversary dinner at a Michelin-starred restaurant, I believe every trip should be perfectly tailored to your family's style and preferences. I love helping families navigate Disney's complexity while ensuring parents get some romance too, and I'm always discovering NYC's latest culinary gems for couples who appreciate exceptional dining experiences.",
+    "instagram": "@sarahstravels",
+    "tiktok": "N/A"
+  }
+},
+    {
       "personalInfo": {
         "firstName": "Joel",
         "lastName": "Weingrten",
