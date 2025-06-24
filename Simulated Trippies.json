@@ -123,6 +123,688 @@
     },
     {
       "personalInfo": {
+        "firstName": "Sarah",
+        "lastName": "Chen",
+        "email": "sarah.chen@email.com",
+        "ageRange": "35-44",
+        "gender": "female"
+      },
+      "travelStyle": {
+        "travelMethods": ["family", "couple"],
+        "budgetStyles": ["mid-range", "luxury"],
+        "familySituation": "couple-with-kids"
+      },
+      "expertise": {
+        "areas": [
+          {
+            "title": "Family-friendly Toronto adventures",
+            "visits": "10+",
+            "isLocal": false,
+            "hotels": [
+              "Fairmont Royal York - Classic luxury in downtown, great for families with connecting rooms",
+              "The Ritz-Carlton Toronto - Upscale with amazing CN Tower views, concierge helps with kid activities",
+              "Chelsea Hotel Toronto - Indoor waterpark and family suites, kids love it",
+              "Shangri-La Hotel Toronto - Luxury with babysitting services, near shopping",
+              "The Westin Harbour Castle - Waterfront location, family rooms available"
+            ],
+            "restaurants": [
+              "Ripley's Aquarium Cafe - Kid-friendly with ocean views and fish tanks",
+              "Casa Loma Gardens Restaurant - Beautiful setting, good for family photos",
+              "Harbourfront Centre - Multiple food vendors, something for everyone",
+              "Medieval Times Dinner Theatre - Interactive dining experience kids love",
+              "CN Tower 360 Restaurant - Revolving restaurant, unforgettable experience",
+              "St. Lawrence Market - Fresh local foods, great for families to explore"
+            ],
+            "otherExperiences": "Toronto Islands ferry ride, Casa Loma castle exploration, CN Tower EdgeWalk for older kids, Toronto Zoo, Centre Island Beach, PATH underground walkways during winter"
+          },
+          {
+            "title": "Vancouver with children - outdoor adventures",
+            "visits": "6-10",
+            "isLocal": false,
+            "hotels": [
+              "Fairmont Hotel Vancouver - Historic luxury downtown, family packages available",
+              "Pan Pacific Vancouver - Waterfront views, close to Canada Place attractions",
+              "The Westin Bayshore - Resort-like feel in the city, pools and activities",
+              "Rosewood Hotel Georgia - Boutique luxury, excellent concierge for family planning",
+              "Coast Coal Harbour Hotel - Modern with kitchenettes, perfect for families"
+            ],
+            "restaurants": [
+              "White Spot - Canadian family chain, kids menu and crayons provided",
+              "Granville Island Public Market - Food courts with variety, kid-friendly atmosphere",
+              "The Fish Counter - Sustainable seafood, educational for kids about ocean conservation",
+              "Joe Fortes Seafood & Chop House - Upscale but welcoming to families, great fish",
+              "Earls Kitchen + Bar - Reliable family dining with healthy options",
+              "Science World Cafe - Themed dining experience that kids find fascinating"
+            ],
+            "otherExperiences": "Capilano Suspension Bridge, Stanley Park seawall biking, Granville Island Kids Market, Science World, Vancouver Aquarium, Queen Elizabeth Park conservatory"
+          },
+          {
+            "title": "Cancún family resorts and activities",
+            "visits": "3-5",
+            "isLocal": false,
+            "hotels": [
+              "Moon Palace Cancún - All-inclusive paradise for families, water parks and kids clubs",
+              "Hotel Xcaret Mexico - Eco-integrated resort with cultural activities for children",
+              "Grand Fiesta Americana Coral Beach - Beautiful beachfront, family-friendly amenities",
+              "The Ritz-Carlton Cancún - Luxury with exceptional kids club and beach activities",
+              "Hyatt Zilara Cancún - Adults-only sister property, but Hyatt Ziva nearby is family-perfect",
+              "Iberostar Selection Cancún - All-inclusive with supervised kids activities and water sports"
+            ],
+            "restaurants": [
+              "La Parrilla - Authentic Mexican with mariachi music, kids love the atmosphere",
+              "Parque de las Palapas - Local food market, great for trying different Mexican dishes",
+              "Harry's Steakhouse - Upscale option when you want a nice dinner, good kids menu",
+              "Mercado 28 - Local market with food stalls, cultural experience for families",
+              "Carlos'n Charlie's - Fun restaurant with entertainment, very kid-friendly",
+              "Puerto Madero - Waterfront dining with beautiful views and seafood"
+            ],
+            "otherExperiences": "Xcaret eco-park day trip, Chichen Itza family tour with kid-friendly guides, snorkeling at Isla Mujeres, Interactive Aquarium, Cancún Underwater Museum glass-bottom boat tours"
+          },
+          {
+            "title": "Chicago family attractions and deep dish",
+            "visits": "6-10",
+            "isLocal": false,
+            "hotels": [
+              "Embassy Suites Chicago Downtown - All-suite hotel perfect for families, free breakfast",
+              "The Palmer House Hilton - Historic luxury with connecting rooms available",
+              "Chicago Marriott Downtown - Convenient location near Navy Pier, family packages",
+              "The Langham Chicago - Luxury with riverside views, excellent concierge services",
+              "Homewood Suites by Hilton Chicago Downtown - Extended stay feel with kitchens"
+            ],
+            "restaurants": [
+              "Lou Malnati's Pizzeria - Best deep dish pizza, kid portions available",
+              "Giordano's - Another deep dish legend, stuffed pizza that kids love",
+              "Wildberry Pancakes & Cafe - Amazing breakfast spot families rave about",
+              "The Purple Pig - Mediterranean small plates, surprisingly kid-friendly",
+              "Navy Pier Beer Garden - Casual dining with lake views and family atmosphere",
+              "Portillo's - Chicago institution for hot dogs and Italian beef, very family-oriented"
+            ],
+            "otherExperiences": "Navy Pier attractions and fireworks, Lincoln Park Zoo (free admission), Children's Museum, Architecture boat tours, Millennium Park Crown Fountain (kids love playing in water), Shedd Aquarium"
+          },
+          {
+            "title": "Boston historical tours with kids",
+            "visits": "3-5",
+            "isLocal": false,
+            "hotels": [
+              "Boston Harbor Hotel - Luxury waterfront with family packages and harbor views",
+              "The Langham Boston - Historic elegance in Financial District, family-friendly services",
+              "Seaport Hotel & World Trade Center - Modern with easy access to Children's Museum",
+              "Omni Parker House - Historic hotel where Boston cream pie was invented, kids love the story",
+              "The Boxer Boston - Boutique hotel in North End, great for walking to attractions"
+            ],
+            "restaurants": [
+              "Union Oyster House - Historic restaurant, great clam chowder and kid-friendly atmosphere",
+              "Faneuil Hall Marketplace - Multiple food options in historic setting",
+              "Mike & Patty's - Amazing breakfast sandwiches, small but family-friendly",
+              "Legal Sea Foods - Boston institution for seafood, excellent kids menu",
+              "The Friendly Toast - Fun, quirky breakfast spot kids love for the atmosphere",
+              "North End Italian restaurants - Any of the family-run places for authentic Italian"
+            ],
+            "otherExperiences": "Freedom Trail walking tour (shorter version for kids), Boston Tea Party Ships, New England Aquarium, Duck Tours (kids love the amphibious vehicles), Boston Children's Museum, Harvard University campus tour"
+          }
+        ],
+        "recommendationTypes": ["hotels", "food", "activities", "hidden-gems"]
+      },
+      "preferences": {
+        "availability": "few-times-week"
+      },
+      "finalDetails": {
+        "bio": "Mom of two who's passionate about creating magical family travel experiences. I believe every destination has something special to offer families, and I love helping other parents discover those hidden gems that make trips unforgettable. My specialty is finding that perfect balance between adventure and relaxation that keeps both kids and parents happy.",
+        "instagram": "@sarahsfamilytravels",
+        "tiktok": "@momadventuresabroad"
+      }
+    },
+    {
+      "personalInfo": {
+        "firstName": "Isabella",
+        "lastName": "Rodriguez",
+        "email": "isabella.rodriguez@email.com",
+        "ageRange": "35-44",
+        "gender": "female"
+      },
+      "travelStyle": {
+        "travelMethods": ["couple", "solo"],
+        "budgetStyles": ["luxury", "mid-range"],
+        "familySituation": "couple-no-kids"
+      },
+      "expertise": {
+        "areas": [
+          {
+            "title": "Romantic London experiences for couples",
+            "visits": "10+",
+            "isLocal": false,
+            "hotels": [
+              "The Langham London - Historic luxury in Marylebone, exceptional afternoon tea",
+              "Claridge's - Art Deco elegance in Mayfair, perfect for romantic getaways",
+              "The Shard - Modern luxury with incredible city views from your room",
+              "Covent Garden Hotel - Boutique charm in theatrical district, intimate atmosphere",
+              "The Zetter Townhouse - Quirky boutique in Fitzrovia, romantic cocktail bar",
+              "Shangri-La at The Shard - Ultimate luxury with panoramic London views"
+            ],
+            "restaurants": [
+              "Sketch - Pink afternoon tea room that's Instagram famous and absolutely magical",
+              "Dishoom - Bombay-style cafe with incredible atmosphere, perfect for date nights",
+              "Rules - London's oldest restaurant, historic and romantic setting",
+              "Aqua Shard - Fine dining with stunning views, unforgettable romantic dinner",
+              "The Ivy - Classic British dining, see-and-be-seen atmosphere",
+              "Gordon Ramsay Bar & Grill - Michelin-starred dining for special occasions"
+            ],
+            "otherExperiences": "Thames river dinner cruises at sunset, West End theatre shows, private tours of Tower of London, romantic walks in Hyde Park, Borough Market food tours, rooftop bars in Shoreditch"
+          },
+          {
+            "title": "Paris romance and hidden gems",
+            "visits": "10+",
+            "isLocal": false,
+            "hotels": [
+              "Hotel Plaza Athénée - Ultimate Parisian luxury near Champs-Élysées",
+              "Le Meurice - Palace hotel with stunning Tuileries views and romantic suites",
+              "Hotel des Grands Boulevards - Boutique charm in the 2nd arrondissement",
+              "La Réserve Paris - Contemporary luxury with spa, perfect for couples",
+              "Hotel Malte Opera - Boutique hotel near Opera, intimate and stylish",
+              "Four Seasons George V - Legendary luxury with flower-filled lobbies"
+            ],
+            "restaurants": [
+              "L'Ami Jean - Cozy bistro with incredible atmosphere and sharing plates",
+              "Pink Mamma - Instagram-worthy Italian in vintage greenhouse setting",
+              "Le Comptoir du Relais - Classic bistro experience in Saint-Germain",
+              "Breizh Café - Modern crêperie that elevates traditional French food",
+              "L'As du Fallafel - Best falafel in Le Marais, perfect for casual romantic lunch",
+              "Guy Savoy - Michelin-starred fine dining for anniversary celebrations"
+            ],
+            "otherExperiences": "Seine river picnics with champagne, Montmartre artist quarter wandering, private Louvre tours, wine tasting in natural wine bars, vintage shopping in Le Marais, sunset at Sacré-Cœur"
+          },
+          {
+            "title": "Rome for food lovers and couples",
+            "visits": "6-10",
+            "isLocal": false,
+            "hotels": [
+              "Hotel de Russie - Luxury near Spanish Steps with beautiful gardens",
+              "The First Roma Dolce - Modern luxury in Via del Corso, perfect location",
+              "Portrait Roma - Boutique luxury overlooking Spanish Steps",
+              "Hotel Artemide - Historic elegance near Termini but feels worlds away",
+              "Villa Spalletti Trivelli - Intimate palazzo hotel, ultimate romantic luxury",
+              "The St. Regis Rome - Grand luxury on Via Vittorio Veneto"
+            ],
+            "restaurants": [
+              "Trattoria Monti - Family-run restaurant with incredible regional cuisine",
+              "Da Enzo al 29 - Tiny authentic trattoria in Trastevere, pure magic",
+              "Il Pagliaccio - Michelin-starred for special romantic dinners",
+              "Armando al Pantheon - Historic restaurant near Pantheon, classic Roman cuisine",
+              "Checchino dal 1887 - Traditional Roman offal dishes (for adventurous couples)",
+              "Glass Hostaria - Modern Italian in Trastevere with innovative approach"
+            ],
+            "otherExperiences": "Early morning Colosseum tours, aperitivo in Campo de' Fiori, cooking classes in local homes, vespa tours of city, romantic dinners in hidden courtyards, Vatican private tours"
+          },
+          {
+            "title": "Amsterdam canals and culture",
+            "visits": "3-5",
+            "isLocal": false,
+            "hotels": [
+              "Waldorf Astoria Amsterdam - Luxury along Herengracht canal, stunning views",
+              "The Hoxton Amsterdam - Hip canal house hotel with local neighborhood feel",
+              "Lloyd Hotel - Unique cultural hotel with rooms designed by different artists",
+              "Hotel V Nesplein - Boutique hotel near museums, great for culture lovers",
+              "Conservatorium Hotel - Modern luxury near museums and shopping",
+              "Canal House - Intimate boutique in three historic canal houses"
+            ],
+            "restaurants": [
+              "De Kas - Restaurant in greenhouse, farm-to-table dining experience",
+              "Café de Reiger - Classic brown café with elevated comfort food",
+              "Restaurant Greetje - Modern Dutch cuisine, creative and delicious",
+              "Café Central - Historic grand café perfect for long romantic meals",
+              "Blue - Michelin-starred fine dining for special occasions",
+              "Winkel 43 - Best apple pie in Amsterdam, perfect for afternoon canal-side treats"
+            ],
+            "otherExperiences": "Private canal boat tours with cheese and wine, bike tours through Vondelpark, Rijksmuseum after-hours tours, brown café hopping in Jordaan, flower market visits, vintage shopping in Nine Streets"
+          },
+          {
+            "title": "Prague fairytale romance",
+            "visits": "1-2",
+            "isLocal": false,
+            "hotels": [
+              "Augustine Hotel - Luxury in converted monastery, historic and romantic",
+              "Golden Well Hotel - Boutique luxury near Prague Castle with incredible views",
+              "Hotel Josef - Modern design hotel in Old Town, perfect for design lovers",
+              "Alchymist Grand Hotel - Gothic luxury with spa, mysterious and romantic",
+              "Four Seasons Prague - Riverside luxury with castle views",
+              "Aria Hotel - Music-themed boutique near Charles Bridge"
+            ],
+            "restaurants": [
+              "Kampa Park - Fine dining with Charles Bridge views, ultimate romantic setting",
+              "Lokál - Modern Czech pub with traditional food done exceptionally well",
+              "Field Restaurant - Farm-to-table fine dining, innovative Czech cuisine",
+              "U Fleků - Historic brewery for traditional beer and atmosphere",
+              "SaSaZu - Asian fusion in impressive industrial space",
+              "Café Savoy - Grand café perfect for romantic breakfast or afternoon coffee"
+            ],
+            "otherExperiences": "Charles Bridge sunrise walks, Prague Castle night tours, classical concerts in historic venues, wine cellars in Lesser Town, vintage tram tours, puppet show performances"
+          }
+        ],
+        "recommendationTypes": ["hotels", "food", "activities", "nightlife", "hidden-gems"]
+      },
+      "preferences": {
+        "availability": "daily"
+      },
+      "finalDetails": {
+        "bio": "Travel photographer and cultural enthusiast who's spent the last decade exploring Europe's most romantic destinations. I specialize in finding those picture-perfect moments and hidden gems that make couples' trips truly special. My passion is showing travelers how to experience authentic local culture while enjoying luxury and romance.",
+        "instagram": "@bellaeuropean",
+        "tiktok": "@europeancouplestravel"
+      }
+    },
+    {
+      "personalInfo": {
+        "firstName": "Maria",
+        "lastName": "Gonzalez",
+        "email": "maria.gonzalez@email.com",
+        "ageRange": "25-34",
+        "gender": "female"
+      },
+      "travelStyle": {
+        "travelMethods": ["family", "couple"],
+        "budgetStyles": ["mid-range", "budget"],
+        "familySituation": "couple-with-kids"
+      },
+      "expertise": {
+        "areas": [
+          {
+            "title": "Mexico City with kids - culture and cuisine",
+            "visits": "local",
+            "isLocal": true,
+            "hotels": [
+              "Four Seasons Mexico City - Luxury with family amenities in Polanco",
+              "Gran Hotel Ciudad de México - Historic art nouveau hotel, kids love the stained glass",
+              "Hotel Geneve - Classic Mexican hospitality in Zona Rosa, family-friendly",
+              "Hyatt Regency Mexico City - Modern with pool and family rooms",
+              "Hotel Majestic - Historic hotel near Zócalo, great for cultural immersion",
+              "Casa Blanca Mexico City - Boutique hotel with connecting rooms for families"
+            ],
+            "restaurants": [
+              "Pujol - World-renowned Mexican cuisine, they accommodate families beautifully",
+              "Azul Histórico - Traditional Mexican in beautiful colonial setting",
+              "Mercado de San Juan - Gourmet market with exotic foods, educational for kids",
+              "La Casa de Toño - Local chain with excellent pozole, very family-friendly",
+              "El Cardenal - Traditional Mexican breakfast, kids love the hot chocolate",
+              "Quintonil - Contemporary Mexican fine dining, surprisingly welcoming to families"
+            ],
+            "otherExperiences": "Xochimilco trajinera boats with mariachi music, Frida Kahlo Museum, Chapultepec Castle and park, Templo Mayor ruins, lucha libre wrestling shows, street food tours in Roma Norte"
+          },
+          {
+            "title": "Barcelona family adventures",
+            "visits": "6-10",
+            "isLocal": false,
+            "hotels": [
+              "Hotel Casa Fuster - Modernist luxury on Passeig de Gràcia, family suites available",
+              "Grand Hotel Central - Boutique luxury with rooftop pool, kids love it",
+              "Hotel Barcelona Center - Family-friendly with kitchen facilities",
+              "Majestic Hotel & Spa - Classic luxury near shopping, excellent family services",
+              "Hotel Omm - Modern design hotel, cool for older kids and teens",
+              "Cotton House Hotel - Boutique luxury in former cotton textile foundation"
+            ],
+            "restaurants": [
+              "Cal Pep - Famous tapas bar, cramped but kids love watching the cooking",
+              "Els Quatre Gats - Historic modernist café where Picasso used to eat",
+              "Cervecería Catalana - Excellent tapas with outdoor seating, family-friendly",
+              "La Boquería Market - Food market experience, perfect for trying different foods",
+              "Can Solé - Traditional seafood restaurant in Barceloneta, been here since 1903",
+              "Park Güell Café - Simple food but amazing views, perfect after visiting the park"
+            ],
+            "otherExperiences": "Sagrada Família family tours, Park Güell exploration, Barcelona beach time, Gothic Quarter treasure hunts, Camp Nou stadium tours, cable car rides to Montjuïc"
+          },
+          {
+            "title": "Venice with children - navigating the canals",
+            "visits": "3-5",
+            "isLocal": false,
+            "hotels": [
+              "Belmond Hotel Cipriani - Ultimate luxury on Giudecca Island, family paradise",
+              "Hotel Danieli - Historic luxury near St. Mark's, connecting rooms available",
+              "Pensione Guerrato - Family-run near Rialto Bridge, authentic Venetian experience",
+              "Ca' Sagredo Hotel - Palace hotel with family rooms and historic charm",
+              "Hotel Ai Due Fanali - Near train station, great for families arriving by train",
+              "Palazzo Stern - Boutique luxury on Grand Canal with family accommodations"
+            ],
+            "restaurants": [
+              "Osteria alle Testiere - Tiny seafood restaurant, reservation essential but worth it",
+              "Trattoria da Romano - Family-run on Burano island, colorful and kid-friendly",
+              "Caffè Florian - Historic café in St. Mark's Square, expensive but magical experience",
+              "Osteria del Sole - Traditional bacaro with cicchetti, great for trying local foods",
+              "Antiche Carampane - Hidden gem near San Polo, authentic Venetian cuisine",
+              "All'Arco - Famous cicchetti bar, standing room only but kids find it fun"
+            ],
+            "otherExperiences": "Gondola rides with singing gondoliers, Murano glass-making demonstrations, Burano colorful houses tour, St. Mark's Basilica mosaics, Doge's Palace secret itineraries, mask-making workshops"
+          },
+          {
+            "title": "Washington DC monuments and museums with kids",
+            "visits": "6-10",
+            "isLocal": false,
+            "hotels": [
+              "The Hay-Adams - Luxury facing White House, historic and family-friendly",
+              "Grand Hyatt Washington - Modern with pool, great for families",
+              "The Willard InterContinental - Historic luxury near monuments",
+              "Embassy Suites Washington DC - All-suite hotel perfect for families",
+              "Hotel Washington - Historic with rooftop views of monuments",
+              "The Ritz-Carlton Washington DC - Luxury in Foggy Bottom near Kennedy Center"
+            ],
+            "restaurants": [
+              "Old Ebbitt Grill - Historic restaurant near White House, very family-friendly",
+              "Ben's Chili Bowl - DC institution, kids love the half-smokes and history",
+              "Founding Farmers - Farm-to-table restaurant with great kids menu",
+              "Museum cafés - Each Smithsonian museum has good family dining options",
+              "The Hamilton - Large menu with something for everyone, live music venue",
+              "Rasika - Indian fine dining that's surprisingly accommodating to families"
+            ],
+            "otherExperiences": "Smithsonian museum treasure hunts, White House tours, Capitol Building visits, National Zoo panda viewing, monuments by twilight tour, Air and Space Museum IMAX movies"
+          },
+          {
+            "title": "Houston family fun and space exploration",
+            "visits": "3-5",
+            "isLocal": false,
+            "hotels": [
+              "Hotel Granduca Houston - Luxury Italian-style hotel with family amenities",
+              "Four Seasons Houston - Modern luxury downtown with pool and family services",
+              "Omni Houston Hotel - Downtown location with connecting rooms",
+              "Hotel ZaZa Houston - Boutique hotel with unique rooms, fun for families",
+              "La Colombe d'Or Hotel - European-style boutique in Montrose area",
+              "Marriott Houston Airport - Convenient for Space Center visits"
+            ],
+            "restaurants": [
+              "The Original Ninfa's on Navigation - Tex-Mex institution, very family-friendly",
+              "Pappadeaux Seafood Kitchen - Louisiana-style seafood, kids love the atmosphere",
+              "Breakfast Klub - Amazing soul food breakfast, worth the wait with kids",
+              "Hugo's - Upscale Mexican that welcomes families, incredible authentic cuisine",
+              "Truth BBQ - Excellent barbecue in casual family atmosphere",
+              "Space Center Houston Café - Theme dining experience kids love"
+            ],
+            "otherExperiences": "NASA Space Center Houston tours, Houston Zoo, Children's Museum of Houston, Buffalo Bayou Park boat tours, Museum District exploration, Hermann Park train rides"
+          }
+        ],
+        "recommendationTypes": ["food", "activities", "transportation", "hidden-gems"]
+      },
+      "preferences": {
+        "availability": "few-times-week"
+      },
+      "finalDetails": {
+        "bio": "Mexican-American mother of three who loves sharing the authentic culture and flavors of Mexico with fellow travelers. I'm passionate about showing families how to experience destinations like locals while keeping everyone happy and engaged. My expertise comes from years of traveling with children and finding those perfect spots that create lasting memories.",
+        "instagram": "@mariafamilytravel",
+        "tiktok": "@mexmomtravels"
+      }
+    },
+    {
+      "personalInfo": {
+        "firstName": "Catherine",
+        "lastName": "Walsh",
+        "email": "catherine.walsh@email.com",
+        "ageRange": "45-54",
+        "gender": "female"
+      },
+      "travelStyle": {
+        "travelMethods": ["family", "couple"],
+        "budgetStyles": ["luxury", "mid-range"],
+        "familySituation": "couple-with-kids"
+      },
+      "expertise": {
+        "areas": [
+          {
+            "title": "Istanbul cultural immersion with teenagers",
+            "visits": "3-5",
+            "isLocal": false,
+            "hotels": [
+              "Four Seasons Sultanahmet - Luxury in converted prison, fascinating history for teens",
+              "Çırağan Palace Kempinski - Ottoman palace hotel on Bosphorus, ultimate luxury",
+              "The St. Regis Istanbul - Modern luxury in Nişantaşı, great shopping nearby",
+              "Hotel Amira Istanbul - Boutique in Old City, walking distance to major sites",
+              "Swissôtel The Bosphorus - Modern with incredible views, teens love the pool",
+              "Georges Hotel Galata - Boutique in trendy Galata area, great for older kids"
+            ],
+            "restaurants": [
+              "Pandeli - Historic Ottoman restaurant above Spice Bazaar, incredible atmosphere",
+              "Karaköy Lokantası - Modern Turkish cuisine in stylish setting",
+              "Hamdi Restaurant - Famous for lamb dishes with Golden Horn views",
+              "Balıkçı Sabahattin - Seafood restaurant in historic house, romantic setting",
+              "Çiya Sofrası - Traditional Anatolian cuisine, educational food experience",
+              "Sunset Grill & Bar - International cuisine with Bosphorus views"
+            ],
+            "otherExperiences": "Hagia Sophia and Blue Mosque guided tours, Grand Bazaar shopping adventures, Bosphorus sunset cruises, Turkish bath experiences, cooking classes for families, Whirling Dervishes ceremonies"
+          },
+          {
+            "title": "Munich family traditions and Oktoberfest",
+            "visits": "6-10",
+            "isLocal": false,
+            "hotels": [
+              "Hotel Vier Jahreszeiten Kempinski - Luxury on Maximilianstraße, family suites available",
+              "Bayerischer Hof - Historic luxury hotel with rooftop spa and family amenities",
+              "Hotel Blauer Bock - Boutique near Viktualienmarkt, authentic Munich experience",
+              "Mandarin Oriental Munich - Modern luxury with family-friendly services",
+              "Hotel Drei Löwen - Traditional Bavarian hotel, great for cultural immersion",
+              "Charles Hotel - Modern luxury near Old Town, excellent family facilities"
+            ],
+            "restaurants": [
+              "Hofbräuhaus - Tourist trap but kids love the atmosphere and traditional music",
+              "Augustiner-Bräu - More authentic beer hall experience, family sections available",
+              "Ratskeller München - Traditional restaurant in New Town Hall basement",
+              "Brennan's Bar - Irish pub with good family atmosphere and familiar food",
+              "Zur Bratwurst - Traditional sausage house, perfect for kids to try German food",
+              "Spatenhaus an der Oper - Elegant beer hall near opera house"
+            ],
+            "otherExperiences": "Neuschwanstein Castle day trips, English Garden surfing watching, BMW Museum tours, Viktualienmarkt food tours, Christmas market visits (seasonal), traditional Bavarian dancing shows"
+          },
+          {
+            "title": "Montreal bilingual family adventures",
+            "visits": "10+",
+            "isLocal": false,
+            "hotels": [
+              "Fairmont The Queen Elizabeth - Historic luxury downtown, connecting rooms available",
+              "Hotel Nelligan - Boutique in Old Montreal, historic charm with modern amenities",
+              "W Montreal - Modern and hip, teens love the contemporary style",
+              "Le Place d'Armes Hotel & Suites - Historic boutique near Notre-Dame Basilica",
+              "Hotel William Gray - Modern luxury in Old Port, family-friendly design",
+              "Ritz-Carlton Montreal - Ultimate luxury with family packages and concierge services"
+            ],
+            "restaurants": [
+              "Schwartz's Deli - Montreal institution for smoked meat, kids love the atmosphere",
+              "L'Express - Classic French bistro that welcomes families warmly",
+              "Joe Beef - Famous restaurant, call ahead for family accommodations",
+              "Fairmount Bagel - Best bagels in Montreal, fun for kids to watch baking process",
+              "La Banquise - 24-hour poutine specialist, quintessential Montreal experience",
+              "Olive et Gourmando - Excellent brunch spot in Old Montreal"
+            ],
+            "otherExperiences": "Old Montreal cobblestone walking tours, Mount Royal park activities, Underground City exploration, Notre-Dame Basilica light shows, St. Joseph's Oratory visits, festivals throughout the year"
+          },
+          {
+            "title": "Quebec City European charm in North America",
+            "visits": "6-10",
+            "isLocal": false,
+            "hotels": [
+              "Fairmont Le Château Frontenac - Iconic castle hotel, every family should stay once",
+              "Auberge Saint-Antoine - Boutique luxury in Old Port, museum-quality artifacts",
+              "Hotel Château Laurier Quebec - Historic luxury with family accommodations",
+              "Le Monastère des Augustines - Unique monastery hotel, cultural immersion experience",
+              "Hotel Manoir Victoria - Central location with family rooms and indoor pool",
+              "Hilton Quebec - Modern convenience near Old City with family amenities"
+            ],
+            "restaurants": [
+              "Aux Anciens Canadiens - Traditional Quebecois cuisine in historic house",
+              "Le Continental - Classic French restaurant, elegant but family-friendly",
+              "Chez Muffy - Farm-to-table in Old Port, beautiful historic setting",
+              "Café de la Paix - Casual French café perfect for families with children",
+              "Restaurant Initiale - Fine dining for special family occasions",
+              "Paillard - Excellent bakery and café, perfect for breakfast with kids"
+            ],
+            "otherExperiences": "Plains of Abraham museum and battlefields, Old City wall walking, Montmorency Falls adventures, horse-drawn carriage rides, Winter Carnival activities (seasonal), artisan workshops in Petit Champlain"
+          },
+          {
+            "title": "Atlanta Southern hospitality with kids",
+            "visits": "3-5",
+            "isLocal": false,
+            "hotels": [
+              "The St. Regis Atlanta - Luxury in Buckhead with family services",
+              "Four Seasons Atlanta - Modern luxury with connecting rooms and pool",
+              "The Georgian Terrace - Historic hotel near Midtown attractions",
+              "Omni Atlanta Hotel at CNN Center - Convenient for family attractions",
+              "Hotel Clermont - Boutique hotel with unique character, good for older kids",
+              "Grand Hyatt Atlanta in Buckhead - Luxury with family amenities"
+            ],
+            "restaurants": [
+              "Mary Mac's Tea Room - Southern institution, kids love the fried chicken",
+              "The Varsity - Atlanta landmark for chili dogs and onion rings",
+              "South City Kitchen - Upscale Southern cuisine that welcomes families",
+              "Fox Bros. Bar-B-Q - Excellent barbecue in casual family atmosphere",
+              "Paschal's - Historic soul food restaurant with civil rights history",
+              "Ponce City Market - Food hall with many options for picky eaters"
+            ],
+            "otherExperiences": "Georgia Aquarium whale shark encounters, World of Coca-Cola tours, Martin Luther King Jr. National Historic Park, Zoo Atlanta panda viewing, Stone Mountain park adventures, High Museum family programs"
+          }
+        ],
+        "recommendationTypes": ["hotels", "food", "activities", "transportation"]
+      },
+      "preferences": {
+        "availability": "weekly"
+      },
+      "finalDetails": {
+        "bio": "Empty-nester mom who spent decades traveling with my three children and now helps other families navigate the world with confidence. I specialize in cultural immersion experiences that educate and inspire teenagers while keeping parents comfortable. My passion is showing families how travel can be transformative and create bonds that last a lifetime.",
+        "instagram": "@cathworldtraveler",
+        "tiktok": "N/A"
+      }
+    },
+    {
+      "personalInfo": {
+        "firstName": "David",
+        "lastName": "Kim",
+        "email": "david.kim@email.com",
+        "ageRange": "35-44",
+        "gender": "male"
+      },
+      "travelStyle": {
+        "travelMethods": ["couple", "friends"],
+        "budgetStyles": ["luxury", "mid-range"],
+        "familySituation": "couple-no-kids"
+      },
+      "expertise": {
+        "areas": [
+          {
+            "title": "Dallas business and leisure travel",
+            "visits": "10+",
+            "isLocal": false,
+            "hotels": [
+              "The Ritz-Carlton Dallas - Ultimate luxury downtown with club level access",
+              "Rosewood Mansion on Turtle Creek - Iconic Dallas luxury with exceptional service",
+              "The Joule - Boutique luxury in historic downtown building, rooftop pool",
+              "Four Seasons Resort Dallas at Las Colinas - Resort experience within the city",
+              "Hotel ZaZa Dallas - Boutique with unique themed suites, very Instagram-worthy",
+              "W Dallas Victory - Modern hotel in Victory Park near American Airlines Center"
+            ],
+            "restaurants": [
+              "Nick & Sam's - Upscale steakhouse and seafood, perfect for business dinners",
+              "Knife - John Tesar's renowned restaurant, exceptional steak and wine program",
+              "Uchi Dallas - High-end Japanese from Austin's famous chef Tyson Cole",
+              "FT33 - Farm-to-table fine dining (if still open), innovative Texas cuisine",
+              "Pecan Lodge - Legendary barbecue in Deep Ellum, worth the wait",
+              "Midnight Rambler - Cocktail bar and restaurant in The Joule, sophisticated atmosphere"
+            ],
+            "otherExperiences": "Deep Ellum nightlife and music scene, Dallas Arts District exploration, Cowboys Stadium tours, Sixth Floor Museum, Trinity River trails, upscale shopping in Highland Park"
+          },
+          {
+            "title": "San Jose tech hub and Silicon Valley",
+            "visits": "10+",
+            "isLocal": false,
+            "hotels": [
+              "Hotel De Anza - Historic luxury in downtown, classic elegance",
+              "The Fairmont San Jose - Grand hotel downtown with business amenities",
+              "Four Points by Sheraton San Jose Airport - Convenient for tech conferences",
+              "Hotel Valencia Santana Row - Boutique luxury in shopping district",
+              "Hyatt House San Jose Silicon Valley - Extended stay with tech-friendly amenities",
+              "Graduate Palo Alto - Boutique near Stanford, great for tech meetups"
+            ],
+            "restaurants": [
+              "Manresa - Three Michelin stars in Los Gatos, worth the drive for special occasions",
+              "State of Mind Public House - Gastropub with excellent craft beer selection",
+              "71 Saint Peter - Fine dining in downtown San Jose, romantic atmosphere",
+              "La Folie - French fine dining, intimate setting perfect for couples",
+              "Falafel's Drive-In - Silicon Valley institution, casual and nostalgic",
+              "The Table - Farm-to-table in Willow Glen, seasonal menu and wine pairings"
+            ],
+            "otherExperiences": "Tech company campus tours (Google, Apple, Facebook), Winchester Mystery House, Santana Row shopping and entertainment, wine tasting in nearby Santa Cruz Mountains, Stanford University campus, Computer History Museum"
+          },
+          {
+            "title": "Las Vegas beyond the Strip - couples experiences",
+            "visits": "10+",
+            "isLocal": false,
+            "hotels": [
+              "The Wynn Las Vegas - Ultimate luxury with incredible attention to detail",
+              "Four Seasons Las Vegas - Non-gaming luxury hotel, peaceful retreat",
+              "ARIA Sky Suites - Modern luxury with butler service, perfect for couples",
+              "The Cosmopolitan - Hip and modern with unique rooms and great dining",
+              "Bellagio - Classic Vegas luxury with famous fountains and conservatory",
+              "Red Rock Casino Resort - Off-Strip luxury near natural beauty"
+            ],
+            "restaurants": [
+              "Joël Robuchon - Three Michelin stars, ultimate fine dining experience",
+              "Le Bernardin - Eric Ripert's seafood temple, sophisticated and romantic",
+              "CUT by Wolfgang Puck - Modern steakhouse with impeccable service",
+              "Sage - Farm-to-table fine dining at ARIA, innovative American cuisine",
+              "Raku - Off-Strip Japanese izakaya, authentic and intimate experience",
+              "Lotus of Siam - Best Thai food in Vegas, locals' favorite off the Strip"
+            ],
+            "otherExperiences": "High-end spa experiences, exclusive show experiences (Cirque du Soleil VIP), helicopter tours of Strip and Grand Canyon, wine country day trips, Red Rock Canyon hiking, private gaming experiences"
+          },
+          {
+            "title": "Denver mountain gateway adventures",
+            "visits": "6-10",
+            "isLocal": false,
+            "hotels": [
+              "The Brown Palace Hotel - Historic luxury downtown, afternoon tea tradition",
+              "Four Seasons Denver - Modern luxury with mountain views",
+              "The Crawford Hotel - Boutique in historic Union Station, unique experience",
+              "Hotel Teatro - Boutique near Denver Center for Performing Arts",
+              "Grand Hyatt Denver - Modern luxury downtown with business amenities",
+              "The Oxford Hotel - Historic boutique with spa and fitness center"
+            ],
+            "restaurants": [
+              "Mercantile Dining & Provision - Farm-to-table in Union Station, romantic setting",
+              "Fruition Restaurant - Fine dining with seasonal Colorado ingredients",
+              "Guard and Grace - Modern steakhouse downtown, excellent wine program",
+              "Root Down - Trendy restaurant in converted gas station, creative menu",
+              "Linger - International street food in former mortuary, unique atmosphere",
+              "The Capital Grille - Upscale chain but excellent steaks and service"
+            ],
+            "otherExperiences": "Rocky Mountain National Park day trips, craft brewery tours, Denver Art Museum, Red Rocks Amphitheatre concerts, skiing in winter (Vail, Aspen day trips), LoDo historic district exploration"
+          },
+          {
+            "title": "Portland food and craft beer scene",
+            "visits": "6-10",
+            "isLocal": false,
+            "hotels": [
+              "The Nines - Luxury in historic building downtown, sophisticated atmosphere",
+              "Hotel Deluxe - Boutique with old Hollywood glamour theme",
+              "The Society Hotel - Hip downtown hotel in converted seamen's hotel",
+              "AC Hotel Portland - Modern European-style hotel, clean and minimalist",
+              "McMenamins Kennedy School - Unique hotel in converted elementary school",
+              "Kimpton Hotel Monaco - Boutique with personality and pet-friendly amenities"
+            ],
+            "restaurants": [
+              "Le Pigeon - James Beard Award-winning French cuisine, intimate setting",
+              "Canard - From same team as Le Pigeon, focus on whole animal cooking",
+              "Ox Restaurant - Argentine steakhouse, excellent wine list and atmosphere",
+              "Screen Door - Southern comfort food, famous brunch spot",
+              "Powell's Books Café - Dining surrounded by books, quintessential Portland",
+              "Food truck pods - Various locations throughout city, diverse options"
+            ],
+            "otherExperiences": "Columbia River Gorge waterfalls, Powell's City of Books browsing, craft brewery tours (McMenamins empire), food cart pod hopping, Japanese Garden visits, Mount Hood day trips"
+          }
+        ],
+        "recommendationTypes": ["hotels", "food", "nightlife", "activities"]
+      },
+      "preferences": {
+        "availability": "occasional"
+      },
+      "finalDetails": {
+        "bio": "Tech professional and travel enthusiast who's spent years exploring business destinations and turning them into memorable leisure experiences. I specialize in finding sophisticated experiences for couples and professionals who want to maximize their travel time. My expertise covers luxury accommodations, exceptional dining, and unique local experiences that go beyond typical tourist attractions.",
+        "instagram": "@davidtechtravel",
+        "tiktok": "@techtraveler"
+      }
+    },
+  
+    {
+      "personalInfo": {
         "firstName": "Mary",
         "lastName": "Smith",
         "email": "maria.rodriguez.nyc@gmail.com",
@@ -271,7 +953,7 @@
             "hotels": [
               "Aman at Summer Palace - luxury near imperial gardens",
               "The Peninsula Beijing - luxury near Forbidden City",
-              "Hotel eÃÂÃÂclat Beijing - modern luxury boutique",
+              "Hotel eclat Beijing - modern luxury boutique",
               "Leo Hostel - budget courtyard hostel near Forbidden City",
               "Grand Hyatt Beijing - luxury at Oriental Plaza"
             ],
