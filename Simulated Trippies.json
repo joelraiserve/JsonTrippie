@@ -4573,7 +4573,41 @@
         "bio": "I'm passionate about creating magical family memories and romantic culinary adventures. With over 15 years of experience planning luxury family trips to Disney World and foodie getaways to NYC, I understand that the details make all the difference. Whether you're looking to surprise your kids with VIP Disney experiences or planning an anniversary dinner at a Michelin-starred restaurant, I believe every trip should be perfectly tailored to your family's style and preferences. I love helping families navigate Disney's complexity while ensuring parents get some romance too, and I'm always discovering NYC's latest culinary gems for couples who appreciate exceptional dining experiences.",
         "instagram": "@sarahstravels",
         "tiktok": "N/A"
-      }
+      },
+      "userMatches": [   
+    {
+      "matchId": "match_20241201_001",
+      "matchDate": "2024-12-01T10:30:00Z",
+      "status": "new",
+      "traveler": {
+        "firstName": "Joel",
+        "lastName": "Weingarten", 
+        "email": "joel.weingarten@email.com",
+        "phone": "(212) 555-8888",
+        "age": 44
+      },
+      "travelPlan": {
+        "destination": "New York",
+        "startDate": "2025-10-02",
+        "endDate": "2025-10-09",
+        "duration": "7 days",
+        "travelingWith": "Traveling as a couple",
+        "accommodation": {
+          "type": "Hotels/Resorts",
+          "level": "Ultra Luxury",
+          "examples": "Four Seasons/Ritz-Carlton"
+        },
+        "activities": ["Shows & Live Events", "Hiking & Adventures"],
+        "travelStyle": "Luxury & Indulgence",
+        "diningPreferences": "Fine Dining",
+        "loyaltyPrograms": "Not important",
+        "expertPreference": "Experienced Traveler preferred"
+      },
+      "matchReason": "Expert in luxury NYC experiences with hotel and fine dining recommendations",
+      "notes": "",
+      "lastUpdated": "2024-12-01T10:30:00Z"
+    }
+  ]
     },
     {
       "personalInfo": {
