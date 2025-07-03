@@ -4544,39 +4544,44 @@
         "instagram": "@sarahstravels",
         "tiktok": "N/A"
       },
-
-  "matchId": "match_20241201_001",
-  "matchDate": "2024-12-01T10:30:00Z",
-  "status": "new",
-  "traveler": {
-    "firstName": "Joel",
-    "lastName": "Weingarten", 
-    "email": "joel.weingarten@email.com",
-    "phone": "(212) 555-8888",
-    "age": 44
-  },
-  "travelPlan": {
-    "destination": "New York",
-    "startDate": "2025-10-02",
-    "endDate": "2025-10-09",
-    "duration": "7 days",
-    "travelingWith": "Traveling as a couple",
-    "accommodation": {
-      "type": "Hotels/Resorts",
-      "level": "Ultra Luxury",
-      "examples": "Four Seasons/Ritz-Carlton"
+"userMatches": [    // ✅ Add this array
+    {
+      "matchId": "match_20241201_001",
+      "matchDate": "2024-12-01T10:30:00Z",
+      "status": "new",
+      "traveler": {
+        "firstName": "Joel",
+        "lastName": "Weingarten", 
+        "email": "joel.weingarten@email.com",
+        "phone": "(212) 555-8888",
+        "age": 44
+      },
+      "travelPlan": {
+        "destination": "New York",
+        "startDate": "2025-10-02",
+        "endDate": "2025-10-09",
+        "duration": "7 days",
+        "travelingWith": "Traveling as a couple",
+        "accommodation": {
+          "type": "Hotels/Resorts",
+          "level": "Ultra Luxury",
+          "examples": "Four Seasons/Ritz-Carlton"
+        },
+        "activities": ["Shows & Live Events", "Hiking & Adventures"],
+        "travelStyle": "Luxury & Indulgence",
+        "diningPreferences": "Fine Dining",
+        "loyaltyPrograms": "Not important",
+        "expertPreference": "Experienced Traveler preferred"
+      },
+      "matchReason": "Expert in luxury NYC experiences with hotel and fine dining recommendations",
+      "notes": "",
+      "lastUpdated": "2024-12-01T10:30:00Z"
+    }
+  ]
     },
-    "activities": ["Shows & Live Events", "Hiking & Adventures"],
-    "travelStyle": "Luxury & Indulgence",
-    "diningPreferences": "Fine Dining",
-    "loyaltyPrograms": "Not important",
-    "expertPreference": "Experienced Traveler preferred"
-  },
-  "matchReason": "Expert in luxury NYC experiences with hotel and fine dining recommendations",
-  "notes": "",
-  "lastUpdated": "2024-12-01T10:30:00Z"
+ 
 
-    },
+  
     {
       "personalInfo": {
         "firstName": "Joel",
